@@ -1,0 +1,276 @@
+barrio,comuna,fecha,ano,mes,trimestre,superficie
+Agronomia,15,2014-05-01,2014,May,2,423
+Agronomia,15,2015-05-01,2015,May,2,208
+Agronomia,15,2016-05-01,2016,May,2,260
+Agronomia,15,2017-05-01,2017,May,2,198
+Agronomia,15,2018-05-01,2018,May,2,75
+Agronomia,15,2019-05-01,2019,May,2,267
+Almagro,5,2014-05-01,2014,May,2,7353
+Almagro,5,2015-05-01,2015,May,2,3165
+Almagro,5,2016-05-01,2016,May,2,3611
+Almagro,5,2017-05-01,2017,May,2,3142
+Almagro,5,2018-05-01,2018,May,2,2821
+Almagro,5,2019-05-01,2019,May,2,3123
+Balvanera,3,2014-05-01,2014,May,2,5224
+Balvanera,3,2015-05-01,2015,May,2,3033
+Balvanera,3,2016-05-01,2016,May,2,2699
+Balvanera,3,2017-05-01,2017,May,2,2657
+Balvanera,3,2018-05-01,2018,May,2,2357
+Balvanera,3,2019-05-01,2019,May,2,2979
+Barracas,4,2014-05-01,2014,May,2,1293
+Barracas,4,2015-05-01,2015,May,2,926
+Barracas,4,2016-05-01,2016,May,2,415
+Barracas,4,2017-05-01,2017,May,2,396
+Barracas,4,2018-05-01,2018,May,2,474
+Barracas,4,2019-05-01,2019,May,2,606
+Belgrano,13,2014-05-01,2014,May,2,10177
+Belgrano,13,2015-05-01,2015,May,2,9504
+Belgrano,13,2016-05-01,2016,May,2,7469
+Belgrano,13,2017-05-01,2017,May,2,7811
+Belgrano,13,2018-05-01,2018,May,2,4983
+Belgrano,13,2019-05-01,2019,May,2,5303
+Boca,4,2014-05-01,2014,May,2,311
+Boca,4,2015-05-01,2015,May,2,224
+Boca,4,2016-05-01,2016,May,2,367
+Boca,4,2017-05-01,2017,May,2,337
+Boca,4,2018-05-01,2018,May,2,325
+Boca,4,2019-05-01,2019,May,2,527
+Boedo,5,2014-05-01,2014,May,2,1162
+Boedo,5,2015-05-01,2015,May,2,928
+Boedo,5,2016-05-01,2016,May,2,579
+Boedo,5,2017-05-01,2017,May,2,332
+Boedo,5,2018-05-01,2018,May,2,295
+Boedo,5,2019-05-01,2019,May,2,542
+Caballito,6,2014-05-01,2014,May,2,8958
+Caballito,6,2015-05-01,2015,May,2,6701
+Caballito,6,2016-05-01,2016,May,2,6458
+Caballito,6,2017-05-01,2017,May,2,5090
+Caballito,6,2018-05-01,2018,May,2,5191
+Caballito,6,2019-05-01,2019,May,2,6176
+Chacarita,15,2014-05-01,2014,May,2,1043
+Chacarita,15,2015-05-01,2015,May,2,622
+Chacarita,15,2016-05-01,2016,May,2,851
+Chacarita,15,2017-05-01,2017,May,2,749
+Chacarita,15,2018-05-01,2018,May,2,466
+Chacarita,15,2019-05-01,2019,May,2,522
+Coghlan,12,2014-05-01,2014,May,2,1367
+Coghlan,12,2015-05-01,2015,May,2,505
+Coghlan,12,2016-05-01,2016,May,2,311
+Coghlan,12,2017-05-01,2017,May,2,511
+Coghlan,12,2018-05-01,2018,May,2,486
+Coghlan,12,2019-05-01,2019,May,2,341
+Colegiales,13,2014-05-01,2014,May,2,2646
+Colegiales,13,2015-05-01,2015,May,2,1878
+Colegiales,13,2016-05-01,2016,May,2,2105
+Colegiales,13,2017-05-01,2017,May,2,2501
+Colegiales,13,2018-05-01,2018,May,2,1594
+Colegiales,13,2019-05-01,2019,May,2,1180
+Constitucion,1,2014-05-01,2014,May,2,1049
+Constitucion,1,2015-05-01,2015,May,2,444
+Constitucion,1,2016-05-01,2016,May,2,226
+Constitucion,1,2017-05-01,2017,May,2,299
+Constitucion,1,2018-05-01,2018,May,2,808
+Constitucion,1,2019-05-01,2019,May,2,654
+Flores,7,2014-05-01,2014,May,2,5432
+Flores,7,2015-05-01,2015,May,2,3551
+Flores,7,2016-05-01,2016,May,2,2803
+Flores,7,2017-05-01,2017,May,2,2832
+Flores,7,2018-05-01,2018,May,2,2190
+Flores,7,2019-05-01,2019,May,2,2614
+Floresta,10,2014-05-01,2014,May,2,1974
+Floresta,10,2015-05-01,2015,May,2,740
+Floresta,10,2016-05-01,2016,May,2,630
+Floresta,10,2017-05-01,2017,May,2,565
+Floresta,10,2018-05-01,2018,May,2,548
+Floresta,10,2019-05-01,2019,May,2,527
+Paternal,15,2014-05-01,2014,May,2,428
+Paternal,15,2015-05-01,2015,May,2,189
+Paternal,15,2016-05-01,2016,May,2,187
+Paternal,15,2017-05-01,2017,May,2,147
+Paternal,15,2018-05-01,2018,May,2,147
+Paternal,15,2019-05-01,2019,May,2,136
+Liniers,9,2014-05-01,2014,May,2,426
+Liniers,9,2015-05-01,2015,May,2,583
+Liniers,9,2016-05-01,2016,May,2,444
+Liniers,9,2017-05-01,2017,May,2,506
+Liniers,9,2018-05-01,2018,May,2,511
+Liniers,9,2019-05-01,2019,May,2,927
+Mataderos,9,2014-05-01,2014,May,2,269
+Mataderos,9,2015-05-01,2015,May,2,260
+Mataderos,9,2016-05-01,2016,May,2,480
+Mataderos,9,2017-05-01,2017,May,2,400
+Mataderos,9,2018-05-01,2018,May,2,161
+Mataderos,9,2019-05-01,2019,May,2,311
+Monte Castro,10,2014-05-01,2014,May,2,746
+Monte Castro,10,2015-05-01,2015,May,2,467
+Monte Castro,10,2016-05-01,2016,May,2,401
+Monte Castro,10,2017-05-01,2017,May,2,256
+Monte Castro,10,2018-05-01,2018,May,2,546
+Monte Castro,10,2019-05-01,2019,May,2,623
+Monserrat,1,2014-05-01,2014,May,2,1125
+Monserrat,1,2015-05-01,2015,May,2,1153
+Monserrat,1,2016-05-01,2016,May,2,927
+Monserrat,1,2017-05-01,2017,May,2,895
+Monserrat,1,2018-05-01,2018,May,2,738
+Monserrat,1,2019-05-01,2019,May,2,1169
+Nueva Pompeya,4,2014-05-01,2014,May,2,326
+Nueva Pompeya,4,2015-05-01,2015,May,2,146
+Nueva Pompeya,4,2016-05-01,2016,May,2,51
+Nueva Pompeya,4,2017-05-01,2017,May,2,128
+Nueva Pompeya,4,2018-05-01,2018,May,2,123
+Nueva Pompeya,4,2019-05-01,2019,May,2,106
+Nuñez,13,2014-05-01,2014,May,2,3715
+Nuñez,13,2015-05-01,2015,May,2,3544
+Nuñez,13,2016-05-01,2016,May,2,2063
+Nuñez,13,2017-05-01,2017,May,2,3044
+Nuñez,13,2018-05-01,2018,May,2,1640
+Nuñez,13,2019-05-01,2019,May,2,3347
+Palermo,14,2014-05-01,2014,May,2,16564
+Palermo,14,2015-05-01,2015,May,2,12259
+Palermo,14,2016-05-01,2016,May,2,13125
+Palermo,14,2017-05-01,2017,May,2,12837
+Palermo,14,2018-05-01,2018,May,2,11205
+Palermo,14,2019-05-01,2019,May,2,10574
+Parque Avellaneda,9,2014-05-01,2014,May,2,448
+Parque Avellaneda,9,2015-05-01,2015,May,2,143
+Parque Avellaneda,9,2017-05-01,2017,May,2,40
+Parque Avellaneda,9,2018-05-01,2018,May,2,190
+Parque Avellaneda,9,2019-05-01,2019,May,2,178
+Parque Chacabuco,7,2014-05-01,2014,May,2,1242
+Parque Chacabuco,7,2015-05-01,2015,May,2,514
+Parque Chacabuco,7,2016-05-01,2016,May,2,965
+Parque Chacabuco,7,2017-05-01,2017,May,2,826
+Parque Chacabuco,7,2018-05-01,2018,May,2,802
+Parque Chacabuco,7,2019-05-01,2019,May,2,844
+Parque Chas,15,2014-05-01,2014,May,2,400
+Parque Chas,15,2015-05-01,2015,May,2,589
+Parque Chas,15,2016-05-01,2016,May,2,327
+Parque Chas,15,2017-05-01,2017,May,2,333
+Parque Chas,15,2018-05-01,2018,May,2,43
+Parque Chas,15,2019-05-01,2019,May,2,185
+Parque Patricios,4,2014-05-01,2014,May,2,585
+Parque Patricios,4,2015-05-01,2015,May,2,244
+Parque Patricios,4,2016-05-01,2016,May,2,82
+Parque Patricios,4,2017-05-01,2017,May,2,136
+Parque Patricios,4,2018-05-01,2018,May,2,200
+Parque Patricios,4,2019-05-01,2019,May,2,334
+Puerto Madero,1,2014-05-01,2014,May,2,1966
+Puerto Madero,1,2015-05-01,2015,May,2,3422
+Puerto Madero,1,2016-05-01,2016,May,2,1947
+Puerto Madero,1,2017-05-01,2017,May,2,2759
+Puerto Madero,1,2018-05-01,2018,May,2,988
+Puerto Madero,1,2019-05-01,2019,May,2,643
+Recoleta,2,2014-05-01,2014,May,2,10337
+Recoleta,2,2015-05-01,2015,May,2,8190
+Recoleta,2,2016-05-01,2016,May,2,6087
+Recoleta,2,2017-05-01,2017,May,2,6600
+Recoleta,2,2018-05-01,2018,May,2,6111
+Recoleta,2,2019-05-01,2019,May,2,6858
+Retiro,1,2014-05-01,2014,May,2,2207
+Retiro,1,2015-05-01,2015,May,2,2140
+Retiro,1,2016-05-01,2016,May,2,2641
+Retiro,1,2017-05-01,2017,May,2,2976
+Retiro,1,2018-05-01,2018,May,2,1949
+Retiro,1,2019-05-01,2019,May,2,1667
+Saavedra,12,2014-05-01,2014,May,2,2177
+Saavedra,12,2015-05-01,2015,May,2,887
+Saavedra,12,2016-05-01,2016,May,2,1136
+Saavedra,12,2017-05-01,2017,May,2,959
+Saavedra,12,2018-05-01,2018,May,2,1059
+Saavedra,12,2019-05-01,2019,May,2,518
+San Cristobal,3,2014-05-01,2014,May,2,1205
+San Cristobal,3,2015-05-01,2015,May,2,573
+San Cristobal,3,2016-05-01,2016,May,2,506
+San Cristobal,3,2017-05-01,2017,May,2,635
+San Cristobal,3,2018-05-01,2018,May,2,390
+San Cristobal,3,2019-05-01,2019,May,2,869
+San Nicolas,1,2014-05-01,2014,May,2,1689
+San Nicolas,1,2015-05-01,2015,May,2,1779
+San Nicolas,1,2016-05-01,2016,May,2,971
+San Nicolas,1,2017-05-01,2017,May,2,1973
+San Nicolas,1,2018-05-01,2018,May,2,815
+San Nicolas,1,2019-05-01,2019,May,2,1791
+San Telmo,1,2014-05-01,2014,May,2,906
+San Telmo,1,2015-05-01,2015,May,2,1022
+San Telmo,1,2016-05-01,2016,May,2,787
+San Telmo,1,2017-05-01,2017,May,2,462
+San Telmo,1,2018-05-01,2018,May,2,553
+San Telmo,1,2019-05-01,2019,May,2,673
+Velez Sarsfield,10,2014-05-01,2014,May,2,563
+Velez Sarsfield,10,2015-05-01,2015,May,2,509
+Velez Sarsfield,10,2016-05-01,2016,May,2,194
+Velez Sarsfield,10,2017-05-01,2017,May,2,142
+Velez Sarsfield,10,2018-05-01,2018,May,2,221
+Velez Sarsfield,10,2019-05-01,2019,May,2,483
+Versalles,10,2014-05-01,2014,May,2,353
+Versalles,10,2015-05-01,2015,May,2,38
+Versalles,10,2016-05-01,2016,May,2,56
+Versalles,10,2017-05-01,2017,May,2,129
+Versalles,10,2018-05-01,2018,May,2,65
+Versalles,10,2019-05-01,2019,May,2,282
+Villa Crespo,15,2014-05-01,2014,May,2,4902
+Villa Crespo,15,2015-05-01,2015,May,2,3250
+Villa Crespo,15,2016-05-01,2016,May,2,2268
+Villa Crespo,15,2017-05-01,2017,May,2,2318
+Villa Crespo,15,2018-05-01,2018,May,2,1759
+Villa Crespo,15,2019-05-01,2019,May,2,2295
+Villa Del Parque,11,2014-05-01,2014,May,2,2860
+Villa Del Parque,11,2015-05-01,2015,May,2,1756
+Villa Del Parque,11,2016-05-01,2016,May,2,842
+Villa Del Parque,11,2017-05-01,2017,May,2,1104
+Villa Del Parque,11,2018-05-01,2018,May,2,954
+Villa Del Parque,11,2019-05-01,2019,May,2,1447
+Villa Devoto,11,2014-05-01,2014,May,2,1995
+Villa Devoto,11,2015-05-01,2015,May,2,1312
+Villa Devoto,11,2016-05-01,2016,May,2,1036
+Villa Devoto,11,2017-05-01,2017,May,2,1200
+Villa Devoto,11,2018-05-01,2018,May,2,739
+Villa Devoto,11,2019-05-01,2019,May,2,2077
+Villa Gral. Mitre,11,2014-05-01,2014,May,2,925
+Villa Gral. Mitre,11,2015-05-01,2015,May,2,735
+Villa Gral. Mitre,11,2016-05-01,2016,May,2,307
+Villa Gral. Mitre,11,2017-05-01,2017,May,2,198
+Villa Gral. Mitre,11,2018-05-01,2018,May,2,788
+Villa Gral. Mitre,11,2019-05-01,2019,May,2,523
+Villa Lugano,8,2014-05-01,2014,May,2,376
+Villa Lugano,8,2015-05-01,2015,May,2,160
+Villa Lugano,8,2016-05-01,2016,May,2,102
+Villa Lugano,8,2017-05-01,2017,May,2,50
+Villa Lugano,8,2019-05-01,2019,May,2,302
+Villa Luro,10,2014-05-01,2014,May,2,370
+Villa Luro,10,2015-05-01,2015,May,2,761
+Villa Luro,10,2016-05-01,2016,May,2,463
+Villa Luro,10,2017-05-01,2017,May,2,302
+Villa Luro,10,2018-05-01,2018,May,2,203
+Villa Luro,10,2019-05-01,2019,May,2,791
+Villa Ortuzar,15,2014-05-01,2014,May,2,734
+Villa Ortuzar,15,2015-05-01,2015,May,2,609
+Villa Ortuzar,15,2016-05-01,2016,May,2,224
+Villa Ortuzar,15,2017-05-01,2017,May,2,363
+Villa Ortuzar,15,2018-05-01,2018,May,2,347
+Villa Ortuzar,15,2019-05-01,2019,May,2,554
+Villa Pueyrredon,12,2014-05-01,2014,May,2,1584
+Villa Pueyrredon,12,2015-05-01,2015,May,2,760
+Villa Pueyrredon,12,2016-05-01,2016,May,2,832
+Villa Pueyrredon,12,2017-05-01,2017,May,2,382
+Villa Pueyrredon,12,2018-05-01,2018,May,2,662
+Villa Pueyrredon,12,2019-05-01,2019,May,2,1273
+Villa Real,10,2014-05-01,2014,May,2,122
+Villa Real,10,2015-05-01,2015,May,2,48
+Villa Real,10,2016-05-01,2016,May,2,103
+Villa Real,10,2019-05-01,2019,May,2,110
+Villa Riachuelo,8,2014-05-01,2014,May,2,160
+Villa Riachuelo,8,2015-05-01,2015,May,2,75
+Villa Riachuelo,8,2017-05-01,2017,May,2,70
+Villa Santa Rita,11,2014-05-01,2014,May,2,1199
+Villa Santa Rita,11,2015-05-01,2015,May,2,421
+Villa Santa Rita,11,2016-05-01,2016,May,2,449
+Villa Santa Rita,11,2017-05-01,2017,May,2,407
+Villa Santa Rita,11,2018-05-01,2018,May,2,363
+Villa Santa Rita,11,2019-05-01,2019,May,2,353
+Villa Urquiza,12,2014-05-01,2014,May,2,6122
+Villa Urquiza,12,2015-05-01,2015,May,2,4322
+Villa Urquiza,12,2016-05-01,2016,May,2,3447
+Villa Urquiza,12,2017-05-01,2017,May,2,3692
+Villa Urquiza,12,2018-05-01,2018,May,2,2970
+Villa Urquiza,12,2019-05-01,2019,May,2,2782
