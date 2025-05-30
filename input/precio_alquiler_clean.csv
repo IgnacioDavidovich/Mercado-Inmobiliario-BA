@@ -1,0 +1,1827 @@
+barrio,comuna,fecha,anio,mes,trimestre,ambientes_cat,precio_prom,precio_m2_estimado
+Almagro,5,NA,2013,Jul,NA,3+ ambientes,3845,51.266666666666666
+Almagro,5,NA,2013,Ago,NA,3+ ambientes,4360,58.13333333333333
+Almagro,5,NA,2013,Sep,NA,3+ ambientes,4188,55.84
+Almagro,5,NA,2013,Oct,NA,3+ ambientes,4187,55.82666666666667
+Almagro,5,NA,2013,Nov,NA,3+ ambientes,4113,54.84
+Almagro,5,NA,2013,Dic,NA,3+ ambientes,4157,55.42666666666667
+Almagro,5,NA,2014,Ene,NA,3+ ambientes,4355,58.06666666666667
+Almagro,5,NA,2014,Feb,NA,3+ ambientes,4791,63.88
+Almagro,5,NA,2014,Mar,NA,3+ ambientes,4686,62.48
+Almagro,5,2014-05-01,2014,May,2,3+ ambientes,5144,68.58666666666667
+Almagro,5,NA,2014,Jul,NA,3+ ambientes,5098,67.97333333333333
+Almagro,5,NA,2014,Sep,NA,3+ ambientes,5553,74.04
+Almagro,5,NA,2014,Oct,NA,3+ ambientes,5683,75.77333333333333
+Almagro,5,NA,2014,Nov,NA,3+ ambientes,5770,76.93333333333334
+Almagro,5,NA,2014,Dic,NA,3+ ambientes,5916,78.88
+Almagro,5,NA,2015,Mar,NA,3+ ambientes,5938,79.17333333333333
+Almagro,5,NA,2015,Abr,NA,3+ ambientes,6091,81.21333333333334
+Almagro,5,NA,2015,Jun,NA,3+ ambientes,6316,84.21333333333334
+Almagro,5,NA,2015,Jul,NA,3+ ambientes,6540,87.2
+Almagro,5,NA,2015,Ago,NA,3+ ambientes,7099,94.65333333333334
+Almagro,5,NA,2015,Sep,NA,3+ ambientes,6869,91.58666666666667
+Almagro,5,NA,2016,Ene,NA,3+ ambientes,8061,107.48
+Almagro,5,NA,2016,Mar,NA,3+ ambientes,7986,106.48
+Almagro,5,NA,2016,Abr,NA,3+ ambientes,9017,120.22666666666667
+Almagro,5,NA,2016,Jul,NA,3+ ambientes,8706,116.08
+Almagro,5,NA,2016,Ago,NA,3+ ambientes,9578,127.70666666666666
+Almagro,5,NA,2016,Sep,NA,3+ ambientes,9607,128.09333333333333
+Almagro,5,NA,2016,Oct,NA,3+ ambientes,9558,127.44
+Almagro,5,NA,2016,Nov,NA,3+ ambientes,10869,144.92
+Almagro,5,NA,2016,Dic,NA,3+ ambientes,11689,155.85333333333332
+Almagro,5,NA,2017,Ene,NA,3+ ambientes,10551,140.68
+Almagro,5,NA,2017,Feb,NA,3+ ambientes,11478,153.04
+Almagro,5,NA,2017,Mar,NA,3+ ambientes,11208,149.44
+Almagro,5,NA,2017,Abr,NA,3+ ambientes,12081,161.08
+Almagro,5,2017-05-01,2017,May,2,3+ ambientes,12358,164.77333333333334
+Almagro,5,NA,2017,Jun,NA,3+ ambientes,12576,167.68
+Almagro,5,NA,2017,Jul,NA,3+ ambientes,12132,161.76
+Almagro,5,NA,2017,Ago,NA,3+ ambientes,12609,168.12
+Almagro,5,NA,2017,Sep,NA,3+ ambientes,12523,166.97333333333333
+Almagro,5,NA,2017,Oct,NA,3+ ambientes,13356,178.08
+Almagro,5,NA,2017,Nov,NA,3+ ambientes,13743,183.24
+Almagro,5,NA,2017,Dic,NA,3+ ambientes,13603,181.37333333333333
+Almagro,5,NA,2018,Ene,NA,3+ ambientes,14608,194.77333333333334
+Almagro,5,NA,2018,Feb,NA,3+ ambientes,15628,208.37333333333333
+Almagro,5,2018-05-01,2018,May,2,3+ ambientes,17100,228
+Almagro,5,NA,2018,Jul,NA,3+ ambientes,16749,223.32
+Almagro,5,NA,2018,Ago,NA,3+ ambientes,17607,234.76
+Almagro,5,NA,2018,Sep,NA,3+ ambientes,16931,225.74666666666667
+Almagro,5,NA,2018,Oct,NA,3+ ambientes,17427,232.36
+Almagro,5,NA,2018,Nov,NA,3+ ambientes,18964,252.85333333333332
+Almagro,5,NA,2019,Mar,NA,3+ ambientes,20163,268.84
+Almagro,5,NA,2019,Abr,NA,3+ ambientes,19954,266.05333333333334
+Almagro,5,2019-05-01,2019,May,2,3+ ambientes,20666,275.5466666666667
+Almagro,5,NA,2019,Jun,NA,3+ ambientes,20733,276.44
+Balvanera,3,NA,2013,Jul,NA,3+ ambientes,3712,49.49333333333333
+Balvanera,3,NA,2013,Ago,NA,3+ ambientes,3405,45.4
+Balvanera,3,NA,2013,Sep,NA,3+ ambientes,3699,49.32
+Balvanera,3,NA,2013,Oct,NA,3+ ambientes,4057,54.093333333333334
+Balvanera,3,NA,2013,Nov,NA,3+ ambientes,3814,50.85333333333333
+Balvanera,3,NA,2013,Dic,NA,3+ ambientes,3985,53.13333333333333
+Balvanera,3,NA,2014,Feb,NA,3+ ambientes,4223,56.306666666666665
+Balvanera,3,NA,2014,Mar,NA,3+ ambientes,4435,59.13333333333333
+Balvanera,3,2014-05-01,2014,May,2,3+ ambientes,4066,54.21333333333333
+Balvanera,3,NA,2014,Oct,NA,3+ ambientes,4521,60.28
+Balvanera,3,NA,2015,Jun,NA,3+ ambientes,5917,78.89333333333333
+Balvanera,3,2016-05-01,2016,May,2,3+ ambientes,7462,99.49333333333334
+Balvanera,3,NA,2016,Sep,NA,3+ ambientes,8001,106.68
+Balvanera,3,NA,2016,Oct,NA,3+ ambientes,8519,113.58666666666667
+Balvanera,3,NA,2016,Nov,NA,3+ ambientes,9384,125.12
+Balvanera,3,NA,2016,Dic,NA,3+ ambientes,9662,128.82666666666665
+Balvanera,3,NA,2017,Ene,NA,3+ ambientes,9492,126.56
+Balvanera,3,NA,2017,Feb,NA,3+ ambientes,9496,126.61333333333333
+Balvanera,3,NA,2017,Mar,NA,3+ ambientes,10356,138.08
+Balvanera,3,NA,2017,Abr,NA,3+ ambientes,10698,142.64
+Balvanera,3,2017-05-01,2017,May,2,3+ ambientes,10250,136.66666666666666
+Balvanera,3,NA,2017,Jun,NA,3+ ambientes,10511,140.14666666666668
+Balvanera,3,NA,2017,Jul,NA,3+ ambientes,10736,143.14666666666668
+Balvanera,3,NA,2017,Nov,NA,3+ ambientes,12899,171.98666666666668
+Balvanera,3,NA,2018,Mar,NA,3+ ambientes,14126,188.34666666666666
+Balvanera,3,NA,2018,Abr,NA,3+ ambientes,14700,196
+Balvanera,3,2018-05-01,2018,May,2,3+ ambientes,14741,196.54666666666665
+Balvanera,3,NA,2018,Jun,NA,3+ ambientes,14153,188.70666666666668
+Balvanera,3,NA,2018,Sep,NA,3+ ambientes,16020,213.6
+Balvanera,3,NA,2018,Oct,NA,3+ ambientes,15900,212
+Balvanera,3,NA,2018,Nov,NA,3+ ambientes,16396,218.61333333333334
+Balvanera,3,NA,2019,Mar,NA,3+ ambientes,17994,239.92
+Balvanera,3,NA,2019,Abr,NA,3+ ambientes,19500,260
+Balvanera,3,2019-05-01,2019,May,2,3+ ambientes,20045,267.26666666666665
+Balvanera,3,NA,2019,Jun,NA,3+ ambientes,20521,273.61333333333334
+Barracas,4,NA,2013,Oct,NA,3+ ambientes,4355,58.06666666666667
+Belgrano,13,NA,2013,Jul,NA,3+ ambientes,4172,55.626666666666665
+Belgrano,13,NA,2013,Ago,NA,3+ ambientes,4528,60.373333333333335
+Belgrano,13,NA,2013,Sep,NA,3+ ambientes,4429,59.053333333333335
+Belgrano,13,NA,2013,Oct,NA,3+ ambientes,4592,61.22666666666667
+Belgrano,13,NA,2013,Nov,NA,3+ ambientes,4697,62.626666666666665
+Belgrano,13,NA,2013,Dic,NA,3+ ambientes,4778,63.70666666666666
+Belgrano,13,NA,2014,Ene,NA,3+ ambientes,4721,62.946666666666665
+Belgrano,13,NA,2014,Feb,NA,3+ ambientes,5523,73.64
+Belgrano,13,NA,2014,Mar,NA,3+ ambientes,5484,73.12
+Belgrano,13,NA,2014,Abr,NA,3+ ambientes,5477,73.02666666666667
+Belgrano,13,2014-05-01,2014,May,2,3+ ambientes,5647,75.29333333333334
+Belgrano,13,NA,2014,Jun,NA,3+ ambientes,5697,75.96
+Belgrano,13,NA,2014,Jul,NA,3+ ambientes,5971,79.61333333333333
+Belgrano,13,NA,2014,Ago,NA,3+ ambientes,5906,78.74666666666667
+Belgrano,13,NA,2014,Sep,NA,3+ ambientes,6261,83.48
+Belgrano,13,NA,2014,Oct,NA,3+ ambientes,6018,80.24
+Belgrano,13,NA,2014,Nov,NA,3+ ambientes,6842,91.22666666666667
+Belgrano,13,NA,2014,Dic,NA,3+ ambientes,6462,86.16
+Belgrano,13,NA,2015,Ene,NA,3+ ambientes,6577,87.69333333333333
+Belgrano,13,NA,2015,Feb,NA,3+ ambientes,7192,95.89333333333333
+Belgrano,13,NA,2015,Mar,NA,3+ ambientes,6813,90.84
+Belgrano,13,NA,2015,Abr,NA,3+ ambientes,6403,85.37333333333333
+Belgrano,13,2015-05-01,2015,May,2,3+ ambientes,7915,105.53333333333333
+Belgrano,13,NA,2015,Jun,NA,3+ ambientes,7601,101.34666666666666
+Belgrano,13,NA,2015,Jul,NA,3+ ambientes,8394,111.92
+Belgrano,13,NA,2015,Ago,NA,3+ ambientes,7372,98.29333333333334
+Belgrano,13,NA,2015,Oct,NA,3+ ambientes,8099,107.98666666666666
+Belgrano,13,NA,2015,Nov,NA,3+ ambientes,8021,106.94666666666667
+Belgrano,13,NA,2016,Mar,NA,3+ ambientes,10456,139.41333333333333
+Belgrano,13,NA,2016,Abr,NA,3+ ambientes,9948,132.64
+Belgrano,13,2016-05-01,2016,May,2,3+ ambientes,10266,136.88
+Belgrano,13,NA,2016,Jun,NA,3+ ambientes,11021,146.94666666666666
+Belgrano,13,NA,2016,Jul,NA,3+ ambientes,10853,144.70666666666668
+Belgrano,13,NA,2016,Ago,NA,3+ ambientes,11680,155.73333333333332
+Belgrano,13,NA,2016,Sep,NA,3+ ambientes,11413,152.17333333333335
+Belgrano,13,NA,2016,Oct,NA,3+ ambientes,12051,160.68
+Belgrano,13,NA,2016,Nov,NA,3+ ambientes,11090,147.86666666666667
+Belgrano,13,NA,2016,Dic,NA,3+ ambientes,11604,154.72
+Belgrano,13,NA,2017,Ene,NA,3+ ambientes,12757,170.09333333333333
+Belgrano,13,NA,2017,Feb,NA,3+ ambientes,13135,175.13333333333333
+Belgrano,13,NA,2017,Mar,NA,3+ ambientes,12939,172.52
+Belgrano,13,NA,2017,Abr,NA,3+ ambientes,13581,181.08
+Belgrano,13,2017-05-01,2017,May,2,3+ ambientes,14026,187.01333333333332
+Belgrano,13,NA,2017,Jun,NA,3+ ambientes,14694,195.92
+Belgrano,13,NA,2017,Jul,NA,3+ ambientes,14323,190.97333333333333
+Belgrano,13,NA,2017,Ago,NA,3+ ambientes,15374,204.98666666666668
+Belgrano,13,NA,2017,Sep,NA,3+ ambientes,15108,201.44
+Belgrano,13,NA,2017,Oct,NA,3+ ambientes,15298,203.97333333333333
+Belgrano,13,NA,2017,Nov,NA,3+ ambientes,16210,216.13333333333333
+Belgrano,13,NA,2017,Dic,NA,3+ ambientes,17440,232.53333333333333
+Belgrano,13,NA,2018,Ene,NA,3+ ambientes,17399,231.98666666666668
+Belgrano,13,NA,2018,Feb,NA,3+ ambientes,18406,245.41333333333333
+Belgrano,13,NA,2018,Mar,NA,3+ ambientes,17575,234.33333333333334
+Belgrano,13,NA,2018,Abr,NA,3+ ambientes,18239,243.18666666666667
+Belgrano,13,2018-05-01,2018,May,2,3+ ambientes,19546,260.61333333333334
+Belgrano,13,NA,2018,Jun,NA,3+ ambientes,17348,231.30666666666667
+Belgrano,13,NA,2018,Jul,NA,3+ ambientes,18985,253.13333333333333
+Belgrano,13,NA,2018,Ago,NA,3+ ambientes,19430,259.06666666666666
+Belgrano,13,NA,2018,Sep,NA,3+ ambientes,21166,282.2133333333333
+Belgrano,13,NA,2018,Oct,NA,3+ ambientes,19640,261.8666666666667
+Belgrano,13,NA,2018,Nov,NA,3+ ambientes,20124,268.32
+Belgrano,13,NA,2018,Dic,NA,3+ ambientes,21082,281.0933333333333
+Belgrano,13,NA,2019,Ene,NA,3+ ambientes,23230,309.73333333333335
+Belgrano,13,NA,2019,Feb,NA,3+ ambientes,22167,295.56
+Belgrano,13,NA,2019,Mar,NA,3+ ambientes,23552,314.02666666666664
+Belgrano,13,NA,2019,Abr,NA,3+ ambientes,21632,288.4266666666667
+Belgrano,13,2019-05-01,2019,May,2,3+ ambientes,23768,316.9066666666667
+Belgrano,13,NA,2019,Jun,NA,3+ ambientes,23509,313.4533333333333
+Belgrano,13,NA,2019,Jul,NA,3+ ambientes,25017,333.56
+Belgrano,13,NA,2019,Ago,NA,3+ ambientes,26634,355.12
+Caballito,6,NA,2013,Jul,NA,3+ ambientes,3772,50.29333333333334
+Caballito,6,NA,2013,Ago,NA,3+ ambientes,4095,54.6
+Caballito,6,NA,2013,Sep,NA,3+ ambientes,4014,53.52
+Caballito,6,NA,2013,Oct,NA,3+ ambientes,4323,57.64
+Caballito,6,NA,2013,Nov,NA,3+ ambientes,4341,57.88
+Caballito,6,NA,2013,Dic,NA,3+ ambientes,4228,56.373333333333335
+Caballito,6,NA,2014,Ene,NA,3+ ambientes,4339,57.85333333333333
+Caballito,6,NA,2014,Feb,NA,3+ ambientes,4505,60.06666666666667
+Caballito,6,NA,2014,Mar,NA,3+ ambientes,4797,63.96
+Caballito,6,NA,2014,Abr,NA,3+ ambientes,4931,65.74666666666667
+Caballito,6,2014-05-01,2014,May,2,3+ ambientes,4510,60.13333333333333
+Caballito,6,NA,2014,Jun,NA,3+ ambientes,4917,65.56
+Caballito,6,NA,2014,Jul,NA,3+ ambientes,5050,67.33333333333333
+Caballito,6,NA,2014,Ago,NA,3+ ambientes,5604,74.72
+Caballito,6,NA,2014,Sep,NA,3+ ambientes,5661,75.48
+Caballito,6,NA,2014,Oct,NA,3+ ambientes,4942,65.89333333333333
+Caballito,6,NA,2014,Nov,NA,3+ ambientes,5823,77.64
+Caballito,6,NA,2014,Dic,NA,3+ ambientes,5696,75.94666666666667
+Caballito,6,NA,2015,Ene,NA,3+ ambientes,5923,78.97333333333333
+Caballito,6,NA,2015,Feb,NA,3+ ambientes,5977,79.69333333333333
+Caballito,6,NA,2015,Mar,NA,3+ ambientes,6274,83.65333333333334
+Caballito,6,NA,2015,Abr,NA,3+ ambientes,6699,89.32
+Caballito,6,2015-05-01,2015,May,2,3+ ambientes,7000,93.33333333333333
+Caballito,6,NA,2015,Jun,NA,3+ ambientes,6640,88.53333333333333
+Caballito,6,NA,2015,Jul,NA,3+ ambientes,6532,87.09333333333333
+Caballito,6,NA,2015,Ago,NA,3+ ambientes,7000,93.33333333333333
+Caballito,6,NA,2015,Sep,NA,3+ ambientes,7318,97.57333333333334
+Caballito,6,NA,2016,Ene,NA,3+ ambientes,8395,111.93333333333334
+Caballito,6,NA,2016,Feb,NA,3+ ambientes,7977,106.36
+Caballito,6,NA,2016,Mar,NA,3+ ambientes,7899,105.32
+Caballito,6,NA,2016,Abr,NA,3+ ambientes,8222,109.62666666666667
+Caballito,6,2016-05-01,2016,May,2,3+ ambientes,8846,117.94666666666667
+Caballito,6,NA,2016,Jun,NA,3+ ambientes,9381,125.08
+Caballito,6,NA,2016,Jul,NA,3+ ambientes,9024,120.32
+Caballito,6,NA,2016,Ago,NA,3+ ambientes,9846,131.28
+Caballito,6,NA,2016,Sep,NA,3+ ambientes,9571,127.61333333333333
+Caballito,6,NA,2016,Oct,NA,3+ ambientes,9569,127.58666666666667
+Caballito,6,NA,2016,Nov,NA,3+ ambientes,10078,134.37333333333333
+Caballito,6,NA,2016,Dic,NA,3+ ambientes,11147,148.62666666666667
+Caballito,6,NA,2017,Ene,NA,3+ ambientes,11119,148.25333333333333
+Caballito,6,NA,2017,Feb,NA,3+ ambientes,11074,147.65333333333334
+Caballito,6,NA,2017,Mar,NA,3+ ambientes,11157,148.76
+Caballito,6,NA,2017,Abr,NA,3+ ambientes,11385,151.8
+Caballito,6,2017-05-01,2017,May,2,3+ ambientes,11655,155.4
+Caballito,6,NA,2017,Jun,NA,3+ ambientes,12134,161.78666666666666
+Caballito,6,NA,2017,Jul,NA,3+ ambientes,11945,159.26666666666668
+Caballito,6,NA,2017,Ago,NA,3+ ambientes,13166,175.54666666666665
+Caballito,6,NA,2017,Sep,NA,3+ ambientes,12787,170.49333333333334
+Caballito,6,NA,2017,Oct,NA,3+ ambientes,12522,166.96
+Caballito,6,NA,2017,Nov,NA,3+ ambientes,13409,178.78666666666666
+Caballito,6,NA,2017,Dic,NA,3+ ambientes,14446,192.61333333333334
+Caballito,6,NA,2018,Ene,NA,3+ ambientes,15787,210.49333333333334
+Caballito,6,NA,2018,Feb,NA,3+ ambientes,15874,211.65333333333334
+Caballito,6,NA,2018,Mar,NA,3+ ambientes,16036,213.81333333333333
+Caballito,6,NA,2018,Abr,NA,3+ ambientes,16476,219.68
+Caballito,6,2018-05-01,2018,May,2,3+ ambientes,16039,213.85333333333332
+Caballito,6,NA,2018,Jun,NA,3+ ambientes,16052,214.02666666666667
+Caballito,6,NA,2018,Jul,NA,3+ ambientes,16962,226.16
+Caballito,6,NA,2018,Ago,NA,3+ ambientes,16978,226.37333333333333
+Caballito,6,NA,2018,Sep,NA,3+ ambientes,17740,236.53333333333333
+Caballito,6,NA,2018,Oct,NA,3+ ambientes,18024,240.32
+Caballito,6,NA,2018,Nov,NA,3+ ambientes,17711,236.14666666666668
+Caballito,6,NA,2018,Dic,NA,3+ ambientes,18658,248.77333333333334
+Caballito,6,NA,2019,Ene,NA,3+ ambientes,20913,278.84
+Caballito,6,NA,2019,Feb,NA,3+ ambientes,19172,255.62666666666667
+Caballito,6,NA,2019,Mar,NA,3+ ambientes,18434,245.78666666666666
+Caballito,6,NA,2019,Abr,NA,3+ ambientes,19154,255.38666666666666
+Caballito,6,2019-05-01,2019,May,2,3+ ambientes,21116,281.5466666666667
+Caballito,6,NA,2019,Jun,NA,3+ ambientes,21677,289.02666666666664
+Caballito,6,NA,2019,Jul,NA,3+ ambientes,22266,296.88
+Caballito,6,NA,2019,Ago,NA,3+ ambientes,22576,301.0133333333333
+Chacarita,15,NA,2013,Oct,NA,3+ ambientes,4762,63.49333333333333
+Chacarita,15,NA,2013,Nov,NA,3+ ambientes,5499,73.32
+Chacarita,15,NA,2016,Dic,NA,3+ ambientes,14159,188.78666666666666
+Colegiales,13,NA,2013,Sep,NA,3+ ambientes,4536,60.48
+Colegiales,13,NA,2013,Oct,NA,3+ ambientes,4569,60.92
+Colegiales,13,NA,2017,Oct,NA,3+ ambientes,14430,192.4
+Colegiales,13,NA,2018,Jul,NA,3+ ambientes,17908,238.77333333333334
+Colegiales,13,NA,2018,Ago,NA,3+ ambientes,18504,246.72
+Flores,7,NA,2013,Jul,NA,3+ ambientes,3715,49.53333333333333
+Flores,7,NA,2013,Ago,NA,3+ ambientes,3472,46.29333333333334
+Flores,7,NA,2013,Sep,NA,3+ ambientes,3726,49.68
+Flores,7,NA,2013,Oct,NA,3+ ambientes,3851,51.346666666666664
+Flores,7,NA,2013,Nov,NA,3+ ambientes,3968,52.906666666666666
+Flores,7,NA,2013,Dic,NA,3+ ambientes,3992,53.22666666666667
+Flores,7,2014-05-01,2014,May,2,3+ ambientes,4230,56.4
+Flores,7,NA,2014,Jun,NA,3+ ambientes,4314,57.52
+Flores,7,NA,2014,Jul,NA,3+ ambientes,4641,61.88
+Flores,7,NA,2014,Sep,NA,3+ ambientes,4921,65.61333333333333
+Flores,7,NA,2014,Nov,NA,3+ ambientes,4577,61.026666666666664
+Flores,7,NA,2015,Ene,NA,3+ ambientes,5078,67.70666666666666
+Flores,7,NA,2015,Feb,NA,3+ ambientes,5254,70.05333333333333
+Flores,7,NA,2015,Abr,NA,3+ ambientes,5648,75.30666666666667
+Flores,7,2015-05-01,2015,May,2,3+ ambientes,5077,67.69333333333333
+Flores,7,NA,2015,Jun,NA,3+ ambientes,5613,74.84
+Flores,7,NA,2015,Jul,NA,3+ ambientes,5997,79.96
+Flores,7,NA,2015,Ago,NA,3+ ambientes,5755,76.73333333333333
+Flores,7,NA,2015,Sep,NA,3+ ambientes,6611,88.14666666666666
+Flores,7,NA,2016,Mar,NA,3+ ambientes,7268,96.90666666666667
+Flores,7,NA,2016,Abr,NA,3+ ambientes,7281,97.08
+Flores,7,2016-05-01,2016,May,2,3+ ambientes,7529,100.38666666666667
+Flores,7,NA,2016,Jul,NA,3+ ambientes,7782,103.76
+Flores,7,NA,2016,Ago,NA,3+ ambientes,8212,109.49333333333334
+Flores,7,NA,2016,Sep,NA,3+ ambientes,8723,116.30666666666667
+Flores,7,NA,2016,Oct,NA,3+ ambientes,7803,104.04
+Flores,7,NA,2016,Nov,NA,3+ ambientes,8378,111.70666666666666
+Flores,7,NA,2016,Dic,NA,3+ ambientes,9016,120.21333333333334
+Flores,7,NA,2017,Ene,NA,3+ ambientes,9168,122.24
+Flores,7,NA,2017,Feb,NA,3+ ambientes,10112,134.82666666666665
+Flores,7,NA,2017,Mar,NA,3+ ambientes,9433,125.77333333333333
+Flores,7,NA,2017,Abr,NA,3+ ambientes,9800,130.66666666666666
+Flores,7,2017-05-01,2017,May,2,3+ ambientes,9718,129.57333333333332
+Flores,7,NA,2017,Jun,NA,3+ ambientes,9765,130.2
+Flores,7,NA,2017,Ago,NA,3+ ambientes,11061,147.48
+Flores,7,NA,2017,Sep,NA,3+ ambientes,11489,153.18666666666667
+Flores,7,NA,2017,Oct,NA,3+ ambientes,12169,162.25333333333333
+Flores,7,NA,2017,Dic,NA,3+ ambientes,12238,163.17333333333335
+Flores,7,NA,2018,Ene,NA,3+ ambientes,12360,164.8
+Flores,7,NA,2018,Feb,NA,3+ ambientes,13363,178.17333333333335
+Flores,7,NA,2018,Abr,NA,3+ ambientes,14945,199.26666666666668
+Flores,7,2018-05-01,2018,May,2,3+ ambientes,13989,186.52
+Flores,7,NA,2018,Jun,NA,3+ ambientes,14460,192.8
+Flores,7,NA,2018,Jul,NA,3+ ambientes,15163,202.17333333333335
+Flores,7,NA,2018,Ago,NA,3+ ambientes,15647,208.62666666666667
+Flores,7,NA,2018,Oct,NA,3+ ambientes,16060,214.13333333333333
+Flores,7,NA,2018,Nov,NA,3+ ambientes,16845,224.6
+Flores,7,NA,2019,Feb,NA,3+ ambientes,17476,233.01333333333332
+Flores,7,NA,2019,Abr,NA,3+ ambientes,19015,253.53333333333333
+Flores,7,2019-05-01,2019,May,2,3+ ambientes,18158,242.10666666666665
+Flores,7,NA,2019,Ago,NA,3+ ambientes,20049,267.32
+Floresta,10,NA,2013,Jul,NA,3+ ambientes,3311,44.14666666666667
+Floresta,10,NA,2013,Oct,NA,3+ ambientes,3517,46.89333333333333
+Floresta,10,NA,2015,Jun,NA,3+ ambientes,5640,75.2
+Floresta,10,NA,2016,Ago,NA,3+ ambientes,8280,110.4
+Floresta,10,NA,2016,Sep,NA,3+ ambientes,9312,124.16
+Floresta,10,NA,2016,Oct,NA,3+ ambientes,8245,109.93333333333334
+Floresta,10,NA,2016,Dic,NA,3+ ambientes,8223,109.64
+Floresta,10,NA,2017,Ene,NA,3+ ambientes,7902,105.36
+Floresta,10,NA,2017,Abr,NA,3+ ambientes,8509,113.45333333333333
+Floresta,10,NA,2017,Jul,NA,3+ ambientes,9917,132.22666666666666
+Liniers,9,NA,2013,Sep,NA,3+ ambientes,3733,49.77333333333333
+Liniers,9,NA,2013,Oct,NA,3+ ambientes,3343,44.57333333333333
+Liniers,9,NA,2013,Nov,NA,3+ ambientes,3360,44.8
+Liniers,9,NA,2013,Dic,NA,3+ ambientes,3558,47.44
+Liniers,9,NA,2017,Ene,NA,3+ ambientes,8754,116.72
+Liniers,9,NA,2017,Feb,NA,3+ ambientes,7907,105.42666666666666
+Liniers,9,2017-05-01,2017,May,2,3+ ambientes,8283,110.44
+Mataderos,9,NA,2013,Oct,NA,3+ ambientes,3759,50.12
+Monte Castro,10,NA,2013,Oct,NA,3+ ambientes,4333,57.77333333333333
+Nuñez,13,NA,2013,Oct,NA,3+ ambientes,4874,64.98666666666666
+Nuñez,13,NA,2013,Nov,NA,3+ ambientes,5560,74.13333333333334
+Nuñez,13,NA,2013,Dic,NA,3+ ambientes,5194,69.25333333333333
+Nuñez,13,NA,2014,Jun,NA,3+ ambientes,5744,76.58666666666667
+Nuñez,13,NA,2014,Jul,NA,3+ ambientes,5859,78.12
+Nuñez,13,NA,2015,Ago,NA,3+ ambientes,7639,101.85333333333334
+Nuñez,13,NA,2016,Sep,NA,3+ ambientes,13404,178.72
+Nuñez,13,NA,2017,Feb,NA,3+ ambientes,14395,191.93333333333334
+Nuñez,13,NA,2017,Ago,NA,3+ ambientes,14149,188.65333333333334
+Nuñez,13,NA,2017,Oct,NA,3+ ambientes,16935,225.8
+Nuñez,13,NA,2017,Dic,NA,3+ ambientes,17220,229.6
+Nuñez,13,NA,2018,Ene,NA,3+ ambientes,16986,226.48
+Nuñez,13,2019-05-01,2019,May,2,3+ ambientes,25211,336.14666666666665
+Nuñez,13,NA,2019,Jun,NA,3+ ambientes,24638,328.50666666666666
+Palermo,14,NA,2013,Jul,NA,3+ ambientes,5331,71.08
+Palermo,14,NA,2013,Ago,NA,3+ ambientes,5011,66.81333333333333
+Palermo,14,NA,2013,Sep,NA,3+ ambientes,5058,67.44
+Palermo,14,NA,2013,Oct,NA,3+ ambientes,5470,72.93333333333334
+Palermo,14,NA,2013,Nov,NA,3+ ambientes,5631,75.08
+Palermo,14,NA,2013,Dic,NA,3+ ambientes,5375,71.66666666666667
+Palermo,14,NA,2014,Ene,NA,3+ ambientes,4928,65.70666666666666
+Palermo,14,NA,2014,Feb,NA,3+ ambientes,5715,76.2
+Palermo,14,NA,2014,Mar,NA,3+ ambientes,6369,84.92
+Palermo,14,NA,2014,Abr,NA,3+ ambientes,6779,90.38666666666667
+Palermo,14,2014-05-01,2014,May,2,3+ ambientes,6143,81.90666666666667
+Palermo,14,NA,2014,Jun,NA,3+ ambientes,6824,90.98666666666666
+Palermo,14,NA,2014,Jul,NA,3+ ambientes,6421,85.61333333333333
+Palermo,14,NA,2014,Ago,NA,3+ ambientes,6411,85.48
+Palermo,14,NA,2014,Sep,NA,3+ ambientes,6444,85.92
+Palermo,14,NA,2014,Oct,NA,3+ ambientes,7095,94.6
+Palermo,14,NA,2014,Nov,NA,3+ ambientes,6801,90.68
+Palermo,14,NA,2014,Dic,NA,3+ ambientes,7095,94.6
+Palermo,14,NA,2015,Ene,NA,3+ ambientes,7150,95.33333333333333
+Palermo,14,NA,2015,Feb,NA,3+ ambientes,6415,85.53333333333333
+Palermo,14,NA,2015,Mar,NA,3+ ambientes,7520,100.26666666666667
+Palermo,14,NA,2015,Abr,NA,3+ ambientes,8151,108.68
+Palermo,14,2015-05-01,2015,May,2,3+ ambientes,8727,116.36
+Palermo,14,NA,2015,Jun,NA,3+ ambientes,8578,114.37333333333333
+Palermo,14,NA,2015,Jul,NA,3+ ambientes,8697,115.96
+Palermo,14,NA,2015,Ago,NA,3+ ambientes,9201,122.68
+Palermo,14,NA,2015,Sep,NA,3+ ambientes,8715,116.2
+Palermo,14,NA,2015,Oct,NA,3+ ambientes,9394,125.25333333333333
+Palermo,14,NA,2015,Nov,NA,3+ ambientes,9085,121.13333333333334
+Palermo,14,NA,2015,Dic,NA,3+ ambientes,9503,126.70666666666666
+Palermo,14,NA,2016,Mar,NA,3+ ambientes,10902,145.36
+Palermo,14,NA,2016,Abr,NA,3+ ambientes,12013,160.17333333333335
+Palermo,14,2016-05-01,2016,May,2,3+ ambientes,11210,149.46666666666667
+Palermo,14,NA,2016,Jun,NA,3+ ambientes,14383,191.77333333333334
+Palermo,14,NA,2016,Jul,NA,3+ ambientes,12358,164.77333333333334
+Palermo,14,NA,2016,Ago,NA,3+ ambientes,11116,148.21333333333334
+Palermo,14,NA,2016,Sep,NA,3+ ambientes,12425,165.66666666666666
+Palermo,14,NA,2016,Oct,NA,3+ ambientes,13128,175.04
+Palermo,14,NA,2016,Nov,NA,3+ ambientes,14018,186.90666666666667
+Palermo,14,NA,2016,Dic,NA,3+ ambientes,14479,193.05333333333334
+Palermo,14,NA,2017,Ene,NA,3+ ambientes,13347,177.96
+Palermo,14,NA,2017,Feb,NA,3+ ambientes,16450,219.33333333333334
+Palermo,14,NA,2017,Mar,NA,3+ ambientes,16223,216.30666666666667
+Palermo,14,NA,2017,Abr,NA,3+ ambientes,15173,202.30666666666667
+Palermo,14,2017-05-01,2017,May,2,3+ ambientes,16222,216.29333333333332
+Palermo,14,NA,2017,Jun,NA,3+ ambientes,16298,217.30666666666667
+Palermo,14,NA,2017,Jul,NA,3+ ambientes,15729,209.72
+Palermo,14,NA,2017,Ago,NA,3+ ambientes,17306,230.74666666666667
+Palermo,14,NA,2017,Sep,NA,3+ ambientes,18282,243.76
+Palermo,14,NA,2017,Oct,NA,3+ ambientes,18539,247.18666666666667
+Palermo,14,NA,2017,Nov,NA,3+ ambientes,16765,223.53333333333333
+Palermo,14,NA,2017,Dic,NA,3+ ambientes,17154,228.72
+Palermo,14,NA,2018,Ene,NA,3+ ambientes,18122,241.62666666666667
+Palermo,14,NA,2018,Feb,NA,3+ ambientes,18537,247.16
+Palermo,14,NA,2018,Mar,NA,3+ ambientes,18824,250.98666666666668
+Palermo,14,NA,2018,Abr,NA,3+ ambientes,18696,249.28
+Palermo,14,2018-05-01,2018,May,2,3+ ambientes,18212,242.82666666666665
+Palermo,14,NA,2018,Jun,NA,3+ ambientes,19324,257.6533333333333
+Palermo,14,NA,2018,Jul,NA,3+ ambientes,20077,267.6933333333333
+Palermo,14,NA,2018,Ago,NA,3+ ambientes,19279,257.05333333333334
+Palermo,14,NA,2018,Sep,NA,3+ ambientes,20716,276.2133333333333
+Palermo,14,NA,2018,Oct,NA,3+ ambientes,20419,272.25333333333333
+Palermo,14,NA,2018,Nov,NA,3+ ambientes,20241,269.88
+Palermo,14,NA,2018,Dic,NA,3+ ambientes,23188,309.17333333333335
+Palermo,14,NA,2019,Ene,NA,3+ ambientes,24785,330.46666666666664
+Palermo,14,NA,2019,Feb,NA,3+ ambientes,21592,287.8933333333333
+Palermo,14,NA,2019,Mar,NA,3+ ambientes,24093,321.24
+Palermo,14,NA,2019,Abr,NA,3+ ambientes,23073,307.64
+Palermo,14,2019-05-01,2019,May,2,3+ ambientes,25874,344.9866666666667
+Palermo,14,NA,2019,Jun,NA,3+ ambientes,26749,356.6533333333333
+Palermo,14,NA,2019,Jul,NA,3+ ambientes,26118,348.24
+Palermo,14,NA,2019,Ago,NA,3+ ambientes,26941,359.2133333333333
+Parque Avellaneda,9,NA,2016,Ago,NA,3+ ambientes,8394,111.92
+Parque Avellaneda,9,NA,2016,Oct,NA,3+ ambientes,8552,114.02666666666667
+Parque Chacabuco,7,NA,2013,Nov,NA,3+ ambientes,3736,49.81333333333333
+Parque Chacabuco,7,NA,2016,Dic,NA,3+ ambientes,11070,147.6
+Parque Patricios,4,NA,2013,Sep,NA,3+ ambientes,4737,63.16
+Puerto Madero,1,NA,2016,Sep,NA,3+ ambientes,18264,243.52
+Puerto Madero,1,NA,2016,Oct,NA,3+ ambientes,21735,289.8
+Puerto Madero,1,NA,2016,Nov,NA,3+ ambientes,21582,287.76
+Puerto Madero,1,NA,2016,Dic,NA,3+ ambientes,21839,291.18666666666667
+Puerto Madero,1,NA,2017,Feb,NA,3+ ambientes,21288,283.84
+Puerto Madero,1,NA,2017,Mar,NA,3+ ambientes,20621,274.94666666666666
+Puerto Madero,1,NA,2017,Abr,NA,3+ ambientes,21474,286.32
+Puerto Madero,1,2017-05-01,2017,May,2,3+ ambientes,21691,289.2133333333333
+Puerto Madero,1,NA,2017,Jun,NA,3+ ambientes,20556,274.08
+Puerto Madero,1,NA,2017,Oct,NA,3+ ambientes,24746,329.94666666666666
+Puerto Madero,1,NA,2018,Ene,NA,3+ ambientes,24413,325.50666666666666
+Recoleta,2,NA,2013,Jul,NA,3+ ambientes,4404,58.72
+Recoleta,2,NA,2013,Ago,NA,3+ ambientes,4193,55.906666666666666
+Recoleta,2,NA,2013,Sep,NA,3+ ambientes,4648,61.973333333333336
+Recoleta,2,NA,2013,Oct,NA,3+ ambientes,4417,58.89333333333333
+Recoleta,2,NA,2013,Nov,NA,3+ ambientes,4688,62.50666666666667
+Recoleta,2,NA,2013,Dic,NA,3+ ambientes,4842,64.56
+Recoleta,2,NA,2014,Ene,NA,3+ ambientes,4609,61.45333333333333
+Recoleta,2,NA,2014,Feb,NA,3+ ambientes,5175,69
+Recoleta,2,NA,2014,Mar,NA,3+ ambientes,5059,67.45333333333333
+Recoleta,2,2014-05-01,2014,May,2,3+ ambientes,5473,72.97333333333333
+Recoleta,2,NA,2014,Jun,NA,3+ ambientes,6101,81.34666666666666
+Recoleta,2,NA,2014,Jul,NA,3+ ambientes,5737,76.49333333333334
+Recoleta,2,NA,2014,Ago,NA,3+ ambientes,6265,83.53333333333333
+Recoleta,2,NA,2014,Sep,NA,3+ ambientes,6823,90.97333333333333
+Recoleta,2,NA,2014,Oct,NA,3+ ambientes,6490,86.53333333333333
+Recoleta,2,NA,2014,Nov,NA,3+ ambientes,6162,82.16
+Recoleta,2,NA,2015,Feb,NA,3+ ambientes,7448,99.30666666666667
+Recoleta,2,NA,2015,Mar,NA,3+ ambientes,7285,97.13333333333334
+Recoleta,2,NA,2015,Abr,NA,3+ ambientes,6825,91
+Recoleta,2,2015-05-01,2015,May,2,3+ ambientes,7552,100.69333333333333
+Recoleta,2,NA,2015,Jun,NA,3+ ambientes,7615,101.53333333333333
+Recoleta,2,NA,2015,Jul,NA,3+ ambientes,8193,109.24
+Recoleta,2,NA,2015,Ago,NA,3+ ambientes,8247,109.96
+Recoleta,2,NA,2015,Sep,NA,3+ ambientes,8452,112.69333333333333
+Recoleta,2,NA,2015,Oct,NA,3+ ambientes,9010,120.13333333333334
+Recoleta,2,NA,2015,Dic,NA,3+ ambientes,8519,113.58666666666667
+Recoleta,2,NA,2016,Mar,NA,3+ ambientes,10044,133.92
+Recoleta,2,NA,2016,Abr,NA,3+ ambientes,10655,142.06666666666666
+Recoleta,2,2016-05-01,2016,May,2,3+ ambientes,9423,125.64
+Recoleta,2,NA,2016,Jun,NA,3+ ambientes,10108,134.77333333333334
+Recoleta,2,NA,2016,Jul,NA,3+ ambientes,10600,141.33333333333334
+Recoleta,2,NA,2016,Oct,NA,3+ ambientes,10805,144.06666666666666
+Recoleta,2,NA,2016,Nov,NA,3+ ambientes,12245,163.26666666666668
+Recoleta,2,NA,2016,Dic,NA,3+ ambientes,11702,156.02666666666667
+Recoleta,2,NA,2017,Ene,NA,3+ ambientes,12029,160.38666666666666
+Recoleta,2,NA,2017,Feb,NA,3+ ambientes,13265,176.86666666666667
+Recoleta,2,NA,2017,Mar,NA,3+ ambientes,12729,169.72
+Recoleta,2,NA,2017,Abr,NA,3+ ambientes,13094,174.58666666666667
+Recoleta,2,2017-05-01,2017,May,2,3+ ambientes,13762,183.49333333333334
+Recoleta,2,NA,2017,Jun,NA,3+ ambientes,13784,183.78666666666666
+Recoleta,2,NA,2017,Jul,NA,3+ ambientes,13883,185.10666666666665
+Recoleta,2,NA,2017,Ago,NA,3+ ambientes,14455,192.73333333333332
+Recoleta,2,NA,2017,Sep,NA,3+ ambientes,15488,206.50666666666666
+Recoleta,2,NA,2017,Oct,NA,3+ ambientes,15401,205.34666666666666
+Recoleta,2,NA,2017,Nov,NA,3+ ambientes,15177,202.36
+Recoleta,2,NA,2017,Dic,NA,3+ ambientes,15228,203.04
+Recoleta,2,NA,2018,Ene,NA,3+ ambientes,16493,219.90666666666667
+Recoleta,2,NA,2018,Feb,NA,3+ ambientes,17487,233.16
+Recoleta,2,NA,2018,Mar,NA,3+ ambientes,18446,245.94666666666666
+Recoleta,2,NA,2018,Abr,NA,3+ ambientes,17616,234.88
+Recoleta,2,2018-05-01,2018,May,2,3+ ambientes,17898,238.64
+Recoleta,2,NA,2018,Jun,NA,3+ ambientes,18659,248.78666666666666
+Recoleta,2,NA,2018,Jul,NA,3+ ambientes,18041,240.54666666666665
+Recoleta,2,NA,2018,Ago,NA,3+ ambientes,18840,251.2
+Recoleta,2,NA,2018,Sep,NA,3+ ambientes,18295,243.93333333333334
+Recoleta,2,NA,2018,Oct,NA,3+ ambientes,19623,261.64
+Recoleta,2,NA,2018,Nov,NA,3+ ambientes,20703,276.04
+Recoleta,2,NA,2018,Dic,NA,3+ ambientes,20659,275.4533333333333
+Recoleta,2,NA,2019,Ene,NA,3+ ambientes,21490,286.53333333333336
+Recoleta,2,NA,2019,Feb,NA,3+ ambientes,22211,296.14666666666665
+Recoleta,2,NA,2019,Mar,NA,3+ ambientes,22844,304.58666666666664
+Recoleta,2,NA,2019,Abr,NA,3+ ambientes,22969,306.25333333333333
+Recoleta,2,2019-05-01,2019,May,2,3+ ambientes,23868,318.24
+Recoleta,2,NA,2019,Jun,NA,3+ ambientes,23501,313.3466666666667
+Recoleta,2,NA,2019,Jul,NA,3+ ambientes,23762,316.82666666666665
+Recoleta,2,NA,2019,Ago,NA,3+ ambientes,24724,329.6533333333333
+Retiro,1,NA,2013,Jul,NA,3+ ambientes,4314,57.52
+Retiro,1,2017-05-01,2017,May,2,3+ ambientes,13150,175.33333333333334
+Retiro,1,NA,2017,Ago,NA,3+ ambientes,13716,182.88
+Retiro,1,2018-05-01,2018,May,2,3+ ambientes,17451,232.68
+Retiro,1,NA,2019,Mar,NA,3+ ambientes,20527,273.6933333333333
+Retiro,1,NA,2019,Ago,NA,3+ ambientes,23417,312.2266666666667
+Saavedra,12,NA,2013,Oct,NA,3+ ambientes,4855,64.73333333333333
+Saavedra,12,NA,2013,Dic,NA,3+ ambientes,4205,56.06666666666667
+Velez Sarsfield,10,NA,2013,Dic,NA,3+ ambientes,3639,48.52
+Villa Crespo,15,NA,2013,Jul,NA,3+ ambientes,3378,45.04
+Villa Crespo,15,NA,2013,Ago,NA,3+ ambientes,3865,51.53333333333333
+Villa Crespo,15,NA,2013,Sep,NA,3+ ambientes,4247,56.626666666666665
+Villa Crespo,15,NA,2013,Oct,NA,3+ ambientes,4187,55.82666666666667
+Villa Crespo,15,NA,2013,Nov,NA,3+ ambientes,4148,55.306666666666665
+Villa Crespo,15,NA,2013,Dic,NA,3+ ambientes,3825,51
+Villa Crespo,15,NA,2014,Ene,NA,3+ ambientes,3982,53.093333333333334
+Villa Crespo,15,NA,2014,Feb,NA,3+ ambientes,4301,57.346666666666664
+Villa Crespo,15,NA,2014,Mar,NA,3+ ambientes,4369,58.25333333333333
+Villa Crespo,15,NA,2014,Oct,NA,3+ ambientes,3914,52.18666666666667
+Villa Crespo,15,NA,2015,Abr,NA,3+ ambientes,6035,80.46666666666667
+Villa Crespo,15,2015-05-01,2015,May,2,3+ ambientes,7180,95.73333333333333
+Villa Crespo,15,NA,2015,Jun,NA,3+ ambientes,6923,92.30666666666667
+Villa Crespo,15,NA,2015,Jul,NA,3+ ambientes,6685,89.13333333333334
+Villa Crespo,15,NA,2015,Ago,NA,3+ ambientes,6854,91.38666666666667
+Villa Crespo,15,NA,2015,Sep,NA,3+ ambientes,7703,102.70666666666666
+Villa Crespo,15,NA,2016,Ene,NA,3+ ambientes,7747,103.29333333333334
+Villa Crespo,15,NA,2016,Mar,NA,3+ ambientes,8192,109.22666666666667
+Villa Crespo,15,NA,2016,Abr,NA,3+ ambientes,8480,113.06666666666666
+Villa Crespo,15,NA,2016,Jul,NA,3+ ambientes,8794,117.25333333333333
+Villa Crespo,15,NA,2016,Ago,NA,3+ ambientes,9537,127.16
+Villa Crespo,15,NA,2016,Sep,NA,3+ ambientes,9043,120.57333333333334
+Villa Crespo,15,NA,2016,Oct,NA,3+ ambientes,8866,118.21333333333334
+Villa Crespo,15,NA,2016,Nov,NA,3+ ambientes,10256,136.74666666666667
+Villa Crespo,15,NA,2016,Dic,NA,3+ ambientes,10135,135.13333333333333
+Villa Crespo,15,NA,2017,Ene,NA,3+ ambientes,10906,145.41333333333333
+Villa Crespo,15,NA,2017,Feb,NA,3+ ambientes,11326,151.01333333333332
+Villa Crespo,15,NA,2017,Mar,NA,3+ ambientes,12034,160.45333333333335
+Villa Crespo,15,2017-05-01,2017,May,2,3+ ambientes,13531,180.41333333333333
+Villa Crespo,15,NA,2017,Jun,NA,3+ ambientes,13056,174.08
+Villa Crespo,15,NA,2017,Jul,NA,3+ ambientes,12784,170.45333333333335
+Villa Crespo,15,NA,2017,Ago,NA,3+ ambientes,13639,181.85333333333332
+Villa Crespo,15,NA,2017,Sep,NA,3+ ambientes,12965,172.86666666666667
+Villa Crespo,15,NA,2017,Oct,NA,3+ ambientes,13235,176.46666666666667
+Villa Crespo,15,NA,2017,Nov,NA,3+ ambientes,15179,202.38666666666666
+Villa Crespo,15,NA,2018,Mar,NA,3+ ambientes,16645,221.93333333333334
+Villa Crespo,15,NA,2018,Abr,NA,3+ ambientes,16610,221.46666666666667
+Villa Crespo,15,2018-05-01,2018,May,2,3+ ambientes,16865,224.86666666666667
+Villa Crespo,15,NA,2018,Jun,NA,3+ ambientes,16412,218.82666666666665
+Villa Del Parque,11,NA,2013,Jul,NA,3+ ambientes,3673,48.973333333333336
+Villa Del Parque,11,NA,2013,Sep,NA,3+ ambientes,3936,52.48
+Villa Del Parque,11,NA,2013,Oct,NA,3+ ambientes,3870,51.6
+Villa Del Parque,11,NA,2013,Nov,NA,3+ ambientes,4252,56.693333333333335
+Villa Del Parque,11,NA,2013,Dic,NA,3+ ambientes,4343,57.906666666666666
+Villa Del Parque,11,NA,2015,Abr,NA,3+ ambientes,6017,80.22666666666667
+Villa Del Parque,11,2015-05-01,2015,May,2,3+ ambientes,5719,76.25333333333333
+Villa Del Parque,11,NA,2015,Jun,NA,3+ ambientes,6190,82.53333333333333
+Villa Del Parque,11,NA,2016,Jun,NA,3+ ambientes,8979,119.72
+Villa Del Parque,11,NA,2016,Jul,NA,3+ ambientes,8673,115.64
+Villa Del Parque,11,NA,2016,Oct,NA,3+ ambientes,8589,114.52
+Villa Del Parque,11,NA,2016,Nov,NA,3+ ambientes,10075,134.33333333333334
+Villa Del Parque,11,NA,2016,Dic,NA,3+ ambientes,9751,130.01333333333332
+Villa Del Parque,11,NA,2017,Ene,NA,3+ ambientes,9420,125.6
+Villa Del Parque,11,NA,2017,Feb,NA,3+ ambientes,9102,121.36
+Villa Del Parque,11,NA,2017,Mar,NA,3+ ambientes,11037,147.16
+Villa Del Parque,11,2017-05-01,2017,May,2,3+ ambientes,11222,149.62666666666667
+Villa Del Parque,11,NA,2017,Jul,NA,3+ ambientes,12782,170.42666666666668
+Villa Del Parque,11,NA,2017,Ago,NA,3+ ambientes,12573,167.64
+Villa Del Parque,11,NA,2018,Ene,NA,3+ ambientes,13914,185.52
+Villa Del Parque,11,NA,2018,Mar,NA,3+ ambientes,15947,212.62666666666667
+Villa Del Parque,11,2018-05-01,2018,May,2,3+ ambientes,15557,207.42666666666668
+Villa Devoto,11,NA,2013,Sep,NA,3+ ambientes,4331,57.74666666666667
+Villa Devoto,11,NA,2013,Oct,NA,3+ ambientes,4052,54.026666666666664
+Villa Devoto,11,NA,2013,Nov,NA,3+ ambientes,4372,58.29333333333334
+Villa Devoto,11,NA,2013,Dic,NA,3+ ambientes,4409,58.78666666666667
+Villa Devoto,11,NA,2015,Abr,NA,3+ ambientes,5898,78.64
+Villa Devoto,11,NA,2015,Jul,NA,3+ ambientes,6927,92.36
+Villa Devoto,11,NA,2015,Sep,NA,3+ ambientes,6437,85.82666666666667
+Villa Devoto,11,NA,2016,Nov,NA,3+ ambientes,9793,130.57333333333332
+Villa Devoto,11,NA,2017,Ene,NA,3+ ambientes,10879,145.05333333333334
+Villa Devoto,11,NA,2017,Mar,NA,3+ ambientes,11613,154.84
+Villa Devoto,11,2017-05-01,2017,May,2,3+ ambientes,12483,166.44
+Villa Devoto,11,NA,2017,Jun,NA,3+ ambientes,10958,146.10666666666665
+Villa Lugano,8,NA,2013,Sep,NA,3+ ambientes,2834,37.78666666666667
+Villa Lugano,8,NA,2013,Oct,NA,3+ ambientes,3075,41
+Villa Lugano,8,NA,2013,Nov,NA,3+ ambientes,3325,44.333333333333336
+Villa Lugano,8,NA,2015,Jul,NA,3+ ambientes,4690,62.53333333333333
+Villa Lugano,8,NA,2016,Jul,NA,3+ ambientes,5868,78.24
+Villa Lugano,8,NA,2016,Sep,NA,3+ ambientes,5987,79.82666666666667
+Villa Lugano,8,NA,2016,Nov,NA,3+ ambientes,6173,82.30666666666667
+Villa Lugano,8,NA,2016,Dic,NA,3+ ambientes,6779,90.38666666666667
+Villa Luro,10,NA,2013,Oct,NA,3+ ambientes,3919,52.25333333333333
+Villa Luro,10,NA,2016,Sep,NA,3+ ambientes,8810,117.46666666666667
+Villa Luro,10,NA,2016,Nov,NA,3+ ambientes,8727,116.36
+Villa Pueyrredon,12,NA,2017,Jun,NA,3+ ambientes,10903,145.37333333333333
+Villa Riachuelo,8,NA,2013,Nov,NA,3+ ambientes,4200,56
+Villa Santa Rita,11,NA,2013,Dic,NA,3+ ambientes,3600,48
+Villa Urquiza,12,NA,2013,Jul,NA,3+ ambientes,4000,53.333333333333336
+Villa Urquiza,12,NA,2013,Ago,NA,3+ ambientes,4765,63.53333333333333
+Villa Urquiza,12,NA,2013,Sep,NA,3+ ambientes,4470,59.6
+Villa Urquiza,12,NA,2013,Oct,NA,3+ ambientes,4629,61.72
+Villa Urquiza,12,NA,2013,Nov,NA,3+ ambientes,4649,61.986666666666665
+Villa Urquiza,12,NA,2013,Dic,NA,3+ ambientes,4668,62.24
+Villa Urquiza,12,NA,2014,Mar,NA,3+ ambientes,4944,65.92
+Villa Urquiza,12,2014-05-01,2014,May,2,3+ ambientes,5090,67.86666666666666
+Villa Urquiza,12,NA,2014,Jun,NA,3+ ambientes,5367,71.56
+Villa Urquiza,12,NA,2015,Feb,NA,3+ ambientes,6056,80.74666666666667
+Villa Urquiza,12,NA,2015,Mar,NA,3+ ambientes,6423,85.64
+Villa Urquiza,12,NA,2015,Abr,NA,3+ ambientes,7829,104.38666666666667
+Villa Urquiza,12,2015-05-01,2015,May,2,3+ ambientes,7382,98.42666666666666
+Villa Urquiza,12,NA,2015,Jun,NA,3+ ambientes,7327,97.69333333333333
+Villa Urquiza,12,NA,2015,Jul,NA,3+ ambientes,7403,98.70666666666666
+Villa Urquiza,12,NA,2015,Ago,NA,3+ ambientes,7553,100.70666666666666
+Villa Urquiza,12,NA,2016,Ene,NA,3+ ambientes,9278,123.70666666666666
+Villa Urquiza,12,NA,2016,Abr,NA,3+ ambientes,9304,124.05333333333333
+Villa Urquiza,12,NA,2016,Jun,NA,3+ ambientes,9653,128.70666666666668
+Villa Urquiza,12,NA,2016,Jul,NA,3+ ambientes,10709,142.78666666666666
+Villa Urquiza,12,NA,2016,Ago,NA,3+ ambientes,10255,136.73333333333332
+Villa Urquiza,12,NA,2016,Sep,NA,3+ ambientes,9646,128.61333333333334
+Villa Urquiza,12,NA,2016,Oct,NA,3+ ambientes,10010,133.46666666666667
+Villa Urquiza,12,NA,2016,Dic,NA,3+ ambientes,11232,149.76
+Villa Urquiza,12,NA,2017,Ene,NA,3+ ambientes,12199,162.65333333333334
+Villa Urquiza,12,NA,2017,Feb,NA,3+ ambientes,12076,161.01333333333332
+Villa Urquiza,12,NA,2017,Mar,NA,3+ ambientes,14131,188.41333333333333
+Villa Urquiza,12,NA,2017,Abr,NA,3+ ambientes,14306,190.74666666666667
+Villa Urquiza,12,2017-05-01,2017,May,2,3+ ambientes,13840,184.53333333333333
+Villa Urquiza,12,NA,2017,Jun,NA,3+ ambientes,14346,191.28
+Villa Urquiza,12,NA,2017,Jul,NA,3+ ambientes,15687,209.16
+Villa Urquiza,12,NA,2017,Ago,NA,3+ ambientes,14626,195.01333333333332
+Villa Urquiza,12,NA,2017,Sep,NA,3+ ambientes,15344,204.58666666666667
+Villa Urquiza,12,NA,2017,Oct,NA,3+ ambientes,13584,181.12
+Villa Urquiza,12,NA,2017,Nov,NA,3+ ambientes,14368,191.57333333333332
+Villa Urquiza,12,NA,2017,Dic,NA,3+ ambientes,15564,207.52
+Villa Urquiza,12,NA,2018,Ene,NA,3+ ambientes,16429,219.05333333333334
+Villa Urquiza,12,NA,2018,Feb,NA,3+ ambientes,17346,231.28
+Villa Urquiza,12,NA,2018,Mar,NA,3+ ambientes,18252,243.36
+Villa Urquiza,12,NA,2018,Abr,NA,3+ ambientes,17840,237.86666666666667
+Villa Urquiza,12,2018-05-01,2018,May,2,3+ ambientes,18371,244.94666666666666
+Villa Urquiza,12,NA,2018,Jun,NA,3+ ambientes,18473,246.30666666666667
+Villa Urquiza,12,NA,2018,Jul,NA,3+ ambientes,19092,254.56
+Villa Urquiza,12,NA,2018,Ago,NA,3+ ambientes,19914,265.52
+Villa Urquiza,12,NA,2018,Sep,NA,3+ ambientes,18474,246.32
+Villa Urquiza,12,NA,2018,Oct,NA,3+ ambientes,21262,283.49333333333334
+Villa Urquiza,12,NA,2019,Ene,NA,3+ ambientes,21748,289.97333333333336
+Villa Urquiza,12,NA,2019,Feb,NA,3+ ambientes,21990,293.2
+Villa Urquiza,12,NA,2019,Mar,NA,3+ ambientes,22665,302.2
+Villa Urquiza,12,NA,2019,Abr,NA,3+ ambientes,24468,326.24
+Villa Urquiza,12,2019-05-01,2019,May,2,3+ ambientes,22601,301.3466666666667
+Villa Urquiza,12,NA,2019,Jun,NA,3+ ambientes,23442,312.56
+Villa Urquiza,12,NA,2019,Jul,NA,3+ ambientes,23084,307.7866666666667
+Almagro,5,NA,2013,Jul,NA,1-2 ambientes,2722,60.48888888888889
+Almagro,5,NA,2013,Ago,NA,1-2 ambientes,2740,60.888888888888886
+Almagro,5,NA,2013,Sep,NA,1-2 ambientes,2830,62.888888888888886
+Almagro,5,NA,2013,Oct,NA,1-2 ambientes,2846,63.24444444444445
+Almagro,5,NA,2013,Nov,NA,1-2 ambientes,2946,65.46666666666667
+Almagro,5,NA,2013,Dic,NA,1-2 ambientes,2951,65.57777777777778
+Almagro,5,NA,2014,Ene,NA,1-2 ambientes,3023,67.17777777777778
+Almagro,5,NA,2014,Feb,NA,1-2 ambientes,2994,66.53333333333333
+Almagro,5,NA,2014,Mar,NA,1-2 ambientes,3259,72.42222222222222
+Almagro,5,NA,2014,Abr,NA,1-2 ambientes,3359,74.64444444444445
+Almagro,5,2014-05-01,2014,May,2,1-2 ambientes,3501,77.8
+Almagro,5,NA,2014,Jun,NA,1-2 ambientes,3315,73.66666666666667
+Almagro,5,NA,2014,Jul,NA,1-2 ambientes,3438,76.4
+Almagro,5,NA,2014,Ago,NA,1-2 ambientes,3525,78.33333333333333
+Almagro,5,NA,2014,Sep,NA,1-2 ambientes,3903,86.73333333333333
+Almagro,5,NA,2014,Oct,NA,1-2 ambientes,3660,81.33333333333333
+Almagro,5,NA,2014,Nov,NA,1-2 ambientes,3804,84.53333333333333
+Almagro,5,NA,2014,Dic,NA,1-2 ambientes,3837,85.26666666666667
+Almagro,5,NA,2015,Ene,NA,1-2 ambientes,3892,86.4888888888889
+Almagro,5,NA,2015,Feb,NA,1-2 ambientes,3974,88.31111111111112
+Almagro,5,NA,2015,Mar,NA,1-2 ambientes,4198,93.28888888888889
+Almagro,5,NA,2015,Abr,NA,1-2 ambientes,4473,99.4
+Almagro,5,2015-05-01,2015,May,2,1-2 ambientes,4386,97.46666666666667
+Almagro,5,NA,2015,Jun,NA,1-2 ambientes,4514,100.31111111111112
+Almagro,5,NA,2015,Jul,NA,1-2 ambientes,4532,100.71111111111111
+Almagro,5,NA,2015,Ago,NA,1-2 ambientes,4887,108.6
+Almagro,5,NA,2015,Sep,NA,1-2 ambientes,4732,105.15555555555555
+Almagro,5,NA,2015,Oct,NA,1-2 ambientes,4966,110.35555555555555
+Almagro,5,NA,2015,Nov,NA,1-2 ambientes,4821,107.13333333333334
+Almagro,5,NA,2015,Dic,NA,1-2 ambientes,5363,119.17777777777778
+Almagro,5,NA,2016,Ene,NA,1-2 ambientes,5424,120.53333333333333
+Almagro,5,NA,2016,Feb,NA,1-2 ambientes,5533,122.95555555555555
+Almagro,5,NA,2016,Mar,NA,1-2 ambientes,5691,126.46666666666667
+Almagro,5,NA,2016,Abr,NA,1-2 ambientes,6153,136.73333333333332
+Almagro,5,2016-05-01,2016,May,2,1-2 ambientes,5827,129.48888888888888
+Almagro,5,NA,2016,Jun,NA,1-2 ambientes,6212,138.04444444444445
+Almagro,5,NA,2016,Jul,NA,1-2 ambientes,6138,136.4
+Almagro,5,NA,2016,Ago,NA,1-2 ambientes,6786,150.8
+Almagro,5,NA,2016,Sep,NA,1-2 ambientes,6572,146.04444444444445
+Almagro,5,NA,2016,Oct,NA,1-2 ambientes,6664,148.0888888888889
+Almagro,5,NA,2016,Nov,NA,1-2 ambientes,6313,140.2888888888889
+Almagro,5,NA,2016,Dic,NA,1-2 ambientes,6794,150.9777777777778
+Almagro,5,NA,2017,Ene,NA,1-2 ambientes,6548,145.51111111111112
+Almagro,5,NA,2017,Feb,NA,1-2 ambientes,7205,160.11111111111111
+Almagro,5,NA,2017,Mar,NA,1-2 ambientes,7216,160.35555555555555
+Almagro,5,NA,2017,Abr,NA,1-2 ambientes,7469,165.9777777777778
+Almagro,5,2017-05-01,2017,May,2,1-2 ambientes,7946,176.57777777777778
+Almagro,5,NA,2017,Jun,NA,1-2 ambientes,8027,178.37777777777777
+Almagro,5,NA,2017,Jul,NA,1-2 ambientes,8164,181.42222222222222
+Almagro,5,NA,2017,Ago,NA,1-2 ambientes,7842,174.26666666666668
+Almagro,5,NA,2017,Sep,NA,1-2 ambientes,8733,194.06666666666666
+Almagro,5,NA,2017,Oct,NA,1-2 ambientes,8710,193.55555555555554
+Almagro,5,NA,2017,Nov,NA,1-2 ambientes,9115,202.55555555555554
+Almagro,5,NA,2017,Dic,NA,1-2 ambientes,8823,196.06666666666666
+Almagro,5,NA,2018,Ene,NA,1-2 ambientes,9457,210.15555555555557
+Almagro,5,NA,2018,Feb,NA,1-2 ambientes,10012,222.48888888888888
+Almagro,5,NA,2018,Mar,NA,1-2 ambientes,9660,214.66666666666666
+Almagro,5,NA,2018,Abr,NA,1-2 ambientes,9929,220.64444444444445
+Almagro,5,2018-05-01,2018,May,2,1-2 ambientes,10183,226.2888888888889
+Almagro,5,NA,2018,Jun,NA,1-2 ambientes,11555,256.77777777777777
+Almagro,5,NA,2018,Jul,NA,1-2 ambientes,11374,252.75555555555556
+Almagro,5,NA,2018,Ago,NA,1-2 ambientes,11281,250.6888888888889
+Almagro,5,NA,2018,Sep,NA,1-2 ambientes,11569,257.0888888888889
+Almagro,5,NA,2018,Oct,NA,1-2 ambientes,11656,259.02222222222224
+Almagro,5,NA,2018,Nov,NA,1-2 ambientes,12076,268.35555555555555
+Almagro,5,NA,2018,Dic,NA,1-2 ambientes,12211,271.35555555555555
+Almagro,5,NA,2019,Ene,NA,1-2 ambientes,12758,283.5111111111111
+Almagro,5,NA,2019,Feb,NA,1-2 ambientes,13201,293.35555555555555
+Almagro,5,NA,2019,Mar,NA,1-2 ambientes,13775,306.1111111111111
+Almagro,5,NA,2019,Abr,NA,1-2 ambientes,13441,298.68888888888887
+Almagro,5,2019-05-01,2019,May,2,1-2 ambientes,13783,306.2888888888889
+Almagro,5,NA,2019,Jun,NA,1-2 ambientes,14452,321.15555555555557
+Almagro,5,NA,2019,Jul,NA,1-2 ambientes,14515,322.55555555555554
+Almagro,5,NA,2019,Ago,NA,1-2 ambientes,15842,352.0444444444444
+Balvanera,3,NA,2013,Jul,NA,1-2 ambientes,2558,56.84444444444444
+Balvanera,3,NA,2013,Ago,NA,1-2 ambientes,2673,59.4
+Balvanera,3,NA,2013,Sep,NA,1-2 ambientes,2694,59.86666666666667
+Balvanera,3,NA,2013,Oct,NA,1-2 ambientes,2634,58.53333333333333
+Balvanera,3,NA,2013,Nov,NA,1-2 ambientes,2819,62.644444444444446
+Balvanera,3,NA,2013,Dic,NA,1-2 ambientes,2688,59.733333333333334
+Balvanera,3,NA,2014,Ene,NA,1-2 ambientes,2895,64.33333333333333
+Balvanera,3,NA,2014,Feb,NA,1-2 ambientes,2983,66.28888888888889
+Balvanera,3,NA,2014,Mar,NA,1-2 ambientes,2960,65.77777777777777
+Balvanera,3,NA,2014,Abr,NA,1-2 ambientes,2996,66.57777777777778
+Balvanera,3,2014-05-01,2014,May,2,1-2 ambientes,3023,67.17777777777778
+Balvanera,3,NA,2014,Jun,NA,1-2 ambientes,3161,70.24444444444444
+Balvanera,3,NA,2014,Jul,NA,1-2 ambientes,3215,71.44444444444444
+Balvanera,3,NA,2014,Ago,NA,1-2 ambientes,3266,72.57777777777778
+Balvanera,3,NA,2014,Sep,NA,1-2 ambientes,3301,73.35555555555555
+Balvanera,3,NA,2014,Oct,NA,1-2 ambientes,3346,74.35555555555555
+Balvanera,3,NA,2014,Nov,NA,1-2 ambientes,3511,78.02222222222223
+Balvanera,3,NA,2014,Dic,NA,1-2 ambientes,3658,81.28888888888889
+Balvanera,3,NA,2015,Ene,NA,1-2 ambientes,3613,80.28888888888889
+Balvanera,3,NA,2015,Feb,NA,1-2 ambientes,4022,89.37777777777778
+Balvanera,3,NA,2015,Mar,NA,1-2 ambientes,3869,85.97777777777777
+Balvanera,3,NA,2015,Abr,NA,1-2 ambientes,3774,83.86666666666666
+Balvanera,3,2015-05-01,2015,May,2,1-2 ambientes,3919,87.08888888888889
+Balvanera,3,NA,2015,Jun,NA,1-2 ambientes,4200,93.33333333333333
+Balvanera,3,NA,2015,Jul,NA,1-2 ambientes,4293,95.4
+Balvanera,3,NA,2015,Ago,NA,1-2 ambientes,4501,100.02222222222223
+Balvanera,3,NA,2016,Feb,NA,1-2 ambientes,4649,103.31111111111112
+Balvanera,3,NA,2016,Mar,NA,1-2 ambientes,5459,121.31111111111112
+Balvanera,3,NA,2016,Abr,NA,1-2 ambientes,5563,123.62222222222222
+Balvanera,3,2016-05-01,2016,May,2,1-2 ambientes,5346,118.8
+Balvanera,3,NA,2016,Jun,NA,1-2 ambientes,6069,134.86666666666667
+Balvanera,3,NA,2016,Jul,NA,1-2 ambientes,5587,124.15555555555555
+Balvanera,3,NA,2016,Ago,NA,1-2 ambientes,6033,134.06666666666666
+Balvanera,3,NA,2016,Sep,NA,1-2 ambientes,5607,124.6
+Balvanera,3,NA,2016,Oct,NA,1-2 ambientes,6405,142.33333333333334
+Balvanera,3,NA,2016,Nov,NA,1-2 ambientes,6218,138.17777777777778
+Balvanera,3,NA,2016,Dic,NA,1-2 ambientes,6351,141.13333333333333
+Balvanera,3,NA,2017,Ene,NA,1-2 ambientes,6520,144.88888888888889
+Balvanera,3,NA,2017,Feb,NA,1-2 ambientes,7257,161.26666666666668
+Balvanera,3,NA,2017,Mar,NA,1-2 ambientes,7058,156.84444444444443
+Balvanera,3,NA,2017,Abr,NA,1-2 ambientes,6944,154.3111111111111
+Balvanera,3,2017-05-01,2017,May,2,1-2 ambientes,7155,159
+Balvanera,3,NA,2017,Jun,NA,1-2 ambientes,7014,155.86666666666667
+Balvanera,3,NA,2017,Jul,NA,1-2 ambientes,7561,168.0222222222222
+Balvanera,3,NA,2017,Ago,NA,1-2 ambientes,7752,172.26666666666668
+Balvanera,3,NA,2017,Sep,NA,1-2 ambientes,7968,177.06666666666666
+Balvanera,3,NA,2017,Oct,NA,1-2 ambientes,8435,187.44444444444446
+Balvanera,3,NA,2017,Nov,NA,1-2 ambientes,8205,182.33333333333334
+Balvanera,3,NA,2017,Dic,NA,1-2 ambientes,8460,188
+Balvanera,3,NA,2018,Ene,NA,1-2 ambientes,9120,202.66666666666666
+Balvanera,3,NA,2018,Feb,NA,1-2 ambientes,9665,214.77777777777777
+Balvanera,3,NA,2018,Mar,NA,1-2 ambientes,8782,195.15555555555557
+Balvanera,3,NA,2018,Abr,NA,1-2 ambientes,8264,183.64444444444445
+Balvanera,3,2018-05-01,2018,May,2,1-2 ambientes,9727,216.15555555555557
+Balvanera,3,NA,2018,Jun,NA,1-2 ambientes,9456,210.13333333333333
+Balvanera,3,NA,2018,Jul,NA,1-2 ambientes,9789,217.53333333333333
+Balvanera,3,NA,2018,Sep,NA,1-2 ambientes,11195,248.77777777777777
+Balvanera,3,NA,2018,Nov,NA,1-2 ambientes,11640,258.6666666666667
+Balvanera,3,NA,2018,Dic,NA,1-2 ambientes,11978,266.1777777777778
+Balvanera,3,NA,2019,Ene,NA,1-2 ambientes,11859,263.53333333333336
+Balvanera,3,NA,2019,Feb,NA,1-2 ambientes,12909,286.8666666666667
+Balvanera,3,NA,2019,Mar,NA,1-2 ambientes,13001,288.9111111111111
+Balvanera,3,NA,2019,Abr,NA,1-2 ambientes,12743,283.1777777777778
+Balvanera,3,2019-05-01,2019,May,2,1-2 ambientes,13231,294.02222222222224
+Balvanera,3,NA,2019,Jun,NA,1-2 ambientes,13495,299.8888888888889
+Balvanera,3,NA,2019,Jul,NA,1-2 ambientes,14136,314.1333333333333
+Balvanera,3,NA,2019,Ago,NA,1-2 ambientes,14274,317.2
+Barracas,4,NA,2013,Jul,NA,1-2 ambientes,2783,61.84444444444444
+Barracas,4,NA,2013,Ago,NA,1-2 ambientes,2678,59.51111111111111
+Barracas,4,NA,2013,Sep,NA,1-2 ambientes,2875,63.888888888888886
+Barracas,4,NA,2013,Oct,NA,1-2 ambientes,2753,61.17777777777778
+Barracas,4,NA,2013,Nov,NA,1-2 ambientes,2512,55.82222222222222
+Barracas,4,NA,2015,Jun,NA,1-2 ambientes,4435,98.55555555555556
+Barracas,4,NA,2016,Oct,NA,1-2 ambientes,6831,151.8
+Barracas,4,NA,2016,Nov,NA,1-2 ambientes,5284,117.42222222222222
+Barracas,4,NA,2016,Dic,NA,1-2 ambientes,6258,139.06666666666666
+Barracas,4,NA,2017,Feb,NA,1-2 ambientes,7084,157.42222222222222
+Barracas,4,NA,2017,Mar,NA,1-2 ambientes,7759,172.42222222222222
+Barracas,4,NA,2017,Abr,NA,1-2 ambientes,7491,166.46666666666667
+Barracas,4,NA,2017,Ago,NA,1-2 ambientes,7644,169.86666666666667
+Belgrano,13,NA,2013,Jul,NA,1-2 ambientes,2955,65.66666666666667
+Belgrano,13,NA,2013,Ago,NA,1-2 ambientes,3076,68.35555555555555
+Belgrano,13,NA,2013,Sep,NA,1-2 ambientes,2994,66.53333333333333
+Belgrano,13,NA,2013,Oct,NA,1-2 ambientes,3173,70.5111111111111
+Belgrano,13,NA,2013,Nov,NA,1-2 ambientes,3126,69.46666666666667
+Belgrano,13,NA,2013,Dic,NA,1-2 ambientes,3212,71.37777777777778
+Belgrano,13,NA,2014,Ene,NA,1-2 ambientes,3152,70.04444444444445
+Belgrano,13,NA,2014,Feb,NA,1-2 ambientes,3383,75.17777777777778
+Belgrano,13,NA,2014,Mar,NA,1-2 ambientes,3664,81.42222222222222
+Belgrano,13,NA,2014,Abr,NA,1-2 ambientes,3478,77.28888888888889
+Belgrano,13,2014-05-01,2014,May,2,1-2 ambientes,3624,80.53333333333333
+Belgrano,13,NA,2014,Jun,NA,1-2 ambientes,3810,84.66666666666667
+Belgrano,13,NA,2014,Jul,NA,1-2 ambientes,3847,85.4888888888889
+Belgrano,13,NA,2014,Ago,NA,1-2 ambientes,3924,87.2
+Belgrano,13,NA,2014,Sep,NA,1-2 ambientes,4004,88.97777777777777
+Belgrano,13,NA,2014,Oct,NA,1-2 ambientes,4161,92.46666666666667
+Belgrano,13,NA,2014,Nov,NA,1-2 ambientes,4092,90.93333333333334
+Belgrano,13,NA,2014,Dic,NA,1-2 ambientes,4136,91.91111111111111
+Belgrano,13,NA,2015,Ene,NA,1-2 ambientes,4331,96.24444444444444
+Belgrano,13,NA,2015,Feb,NA,1-2 ambientes,4469,99.31111111111112
+Belgrano,13,NA,2015,Mar,NA,1-2 ambientes,4238,94.17777777777778
+Belgrano,13,NA,2015,Abr,NA,1-2 ambientes,4598,102.17777777777778
+Belgrano,13,2015-05-01,2015,May,2,1-2 ambientes,4951,110.02222222222223
+Belgrano,13,NA,2015,Jun,NA,1-2 ambientes,5096,113.24444444444444
+Belgrano,13,NA,2015,Jul,NA,1-2 ambientes,5482,121.82222222222222
+Belgrano,13,NA,2015,Ago,NA,1-2 ambientes,5388,119.73333333333333
+Belgrano,13,NA,2015,Sep,NA,1-2 ambientes,5189,115.31111111111112
+Belgrano,13,NA,2015,Oct,NA,1-2 ambientes,5439,120.86666666666666
+Belgrano,13,NA,2015,Nov,NA,1-2 ambientes,6080,135.11111111111111
+Belgrano,13,NA,2015,Dic,NA,1-2 ambientes,5217,115.93333333333334
+Belgrano,13,NA,2016,Ene,NA,1-2 ambientes,5647,125.4888888888889
+Belgrano,13,NA,2016,Feb,NA,1-2 ambientes,6109,135.75555555555556
+Belgrano,13,NA,2016,Mar,NA,1-2 ambientes,6121,136.0222222222222
+Belgrano,13,NA,2016,Abr,NA,1-2 ambientes,6167,137.04444444444445
+Belgrano,13,2016-05-01,2016,May,2,1-2 ambientes,6838,151.95555555555555
+Belgrano,13,NA,2016,Jun,NA,1-2 ambientes,6512,144.7111111111111
+Belgrano,13,NA,2016,Jul,NA,1-2 ambientes,7143,158.73333333333332
+Belgrano,13,NA,2016,Ago,NA,1-2 ambientes,7698,171.06666666666666
+Belgrano,13,NA,2016,Sep,NA,1-2 ambientes,7317,162.6
+Belgrano,13,NA,2016,Oct,NA,1-2 ambientes,7240,160.88888888888889
+Belgrano,13,NA,2016,Nov,NA,1-2 ambientes,7376,163.9111111111111
+Belgrano,13,NA,2016,Dic,NA,1-2 ambientes,7866,174.8
+Belgrano,13,NA,2017,Ene,NA,1-2 ambientes,8138,180.84444444444443
+Belgrano,13,NA,2017,Feb,NA,1-2 ambientes,7939,176.42222222222222
+Belgrano,13,NA,2017,Mar,NA,1-2 ambientes,8440,187.55555555555554
+Belgrano,13,NA,2017,Abr,NA,1-2 ambientes,8877,197.26666666666668
+Belgrano,13,2017-05-01,2017,May,2,1-2 ambientes,8837,196.37777777777777
+Belgrano,13,NA,2017,Jun,NA,1-2 ambientes,9159,203.53333333333333
+Belgrano,13,NA,2017,Jul,NA,1-2 ambientes,9339,207.53333333333333
+Belgrano,13,NA,2017,Ago,NA,1-2 ambientes,10013,222.51111111111112
+Belgrano,13,NA,2017,Sep,NA,1-2 ambientes,10289,228.64444444444445
+Belgrano,13,NA,2017,Oct,NA,1-2 ambientes,10678,237.2888888888889
+Belgrano,13,NA,2017,Nov,NA,1-2 ambientes,10135,225.22222222222223
+Belgrano,13,NA,2017,Dic,NA,1-2 ambientes,10457,232.37777777777777
+Belgrano,13,NA,2018,Ene,NA,1-2 ambientes,11223,249.4
+Belgrano,13,NA,2018,Feb,NA,1-2 ambientes,11222,249.37777777777777
+Belgrano,13,NA,2018,Mar,NA,1-2 ambientes,12166,270.35555555555555
+Belgrano,13,NA,2018,Abr,NA,1-2 ambientes,12235,271.8888888888889
+Belgrano,13,2018-05-01,2018,May,2,1-2 ambientes,12531,278.46666666666664
+Belgrano,13,NA,2018,Jun,NA,1-2 ambientes,12093,268.73333333333335
+Belgrano,13,NA,2018,Jul,NA,1-2 ambientes,12687,281.93333333333334
+Belgrano,13,NA,2018,Ago,NA,1-2 ambientes,13504,300.0888888888889
+Belgrano,13,NA,2018,Sep,NA,1-2 ambientes,13525,300.55555555555554
+Belgrano,13,NA,2018,Oct,NA,1-2 ambientes,14360,319.1111111111111
+Belgrano,13,NA,2018,Nov,NA,1-2 ambientes,13977,310.6
+Belgrano,13,NA,2018,Dic,NA,1-2 ambientes,13900,308.8888888888889
+Belgrano,13,NA,2019,Ene,NA,1-2 ambientes,14245,316.55555555555554
+Belgrano,13,NA,2019,Feb,NA,1-2 ambientes,15325,340.55555555555554
+Belgrano,13,NA,2019,Mar,NA,1-2 ambientes,16295,362.1111111111111
+Belgrano,13,NA,2019,Abr,NA,1-2 ambientes,16279,361.75555555555553
+Belgrano,13,2019-05-01,2019,May,2,1-2 ambientes,15993,355.4
+Belgrano,13,NA,2019,Jun,NA,1-2 ambientes,16138,358.6222222222222
+Belgrano,13,NA,2019,Jul,NA,1-2 ambientes,16582,368.4888888888889
+Belgrano,13,NA,2019,Ago,NA,1-2 ambientes,17152,381.15555555555557
+Boca,4,NA,2016,Jul,NA,1-2 ambientes,5679,126.2
+Boca,4,NA,2016,Dic,NA,1-2 ambientes,5456,121.24444444444444
+Boca,4,NA,2017,Jun,NA,1-2 ambientes,6231,138.46666666666667
+Boca,4,NA,2018,Oct,NA,1-2 ambientes,10216,227.0222222222222
+Boedo,5,NA,2013,Jul,NA,1-2 ambientes,2687,59.71111111111111
+Boedo,5,NA,2013,Oct,NA,1-2 ambientes,2846,63.24444444444445
+Boedo,5,NA,2016,Oct,NA,1-2 ambientes,6266,139.24444444444444
+Boedo,5,NA,2016,Nov,NA,1-2 ambientes,6979,155.0888888888889
+Boedo,5,NA,2018,Ago,NA,1-2 ambientes,11181,248.46666666666667
+Boedo,5,NA,2018,Oct,NA,1-2 ambientes,11404,253.42222222222222
+Caballito,6,NA,2013,Jul,NA,1-2 ambientes,2677,59.48888888888889
+Caballito,6,NA,2013,Ago,NA,1-2 ambientes,2735,60.77777777777778
+Caballito,6,NA,2013,Sep,NA,1-2 ambientes,2737,60.82222222222222
+Caballito,6,NA,2013,Oct,NA,1-2 ambientes,2847,63.266666666666666
+Caballito,6,NA,2013,Nov,NA,1-2 ambientes,2869,63.75555555555555
+Caballito,6,NA,2013,Dic,NA,1-2 ambientes,2927,65.04444444444445
+Caballito,6,NA,2014,Ene,NA,1-2 ambientes,2916,64.8
+Caballito,6,NA,2014,Feb,NA,1-2 ambientes,3154,70.08888888888889
+Caballito,6,NA,2014,Mar,NA,1-2 ambientes,3063,68.06666666666666
+Caballito,6,NA,2014,Abr,NA,1-2 ambientes,3188,70.84444444444445
+Caballito,6,2014-05-01,2014,May,2,1-2 ambientes,3169,70.42222222222222
+Caballito,6,NA,2014,Jun,NA,1-2 ambientes,3375,75
+Caballito,6,NA,2014,Jul,NA,1-2 ambientes,3489,77.53333333333333
+Caballito,6,NA,2014,Ago,NA,1-2 ambientes,3518,78.17777777777778
+Caballito,6,NA,2014,Sep,NA,1-2 ambientes,3551,78.91111111111111
+Caballito,6,NA,2014,Oct,NA,1-2 ambientes,3463,76.95555555555555
+Caballito,6,NA,2014,Nov,NA,1-2 ambientes,3604,80.08888888888889
+Caballito,6,NA,2014,Dic,NA,1-2 ambientes,3641,80.91111111111111
+Caballito,6,NA,2015,Ene,NA,1-2 ambientes,3838,85.28888888888889
+Caballito,6,NA,2015,Feb,NA,1-2 ambientes,3793,84.28888888888889
+Caballito,6,NA,2015,Mar,NA,1-2 ambientes,3936,87.46666666666667
+Caballito,6,NA,2015,Abr,NA,1-2 ambientes,3990,88.66666666666667
+Caballito,6,2015-05-01,2015,May,2,1-2 ambientes,4371,97.13333333333334
+Caballito,6,NA,2015,Jun,NA,1-2 ambientes,4182,92.93333333333334
+Caballito,6,NA,2015,Jul,NA,1-2 ambientes,4429,98.42222222222222
+Caballito,6,NA,2015,Ago,NA,1-2 ambientes,4845,107.66666666666667
+Caballito,6,NA,2015,Sep,NA,1-2 ambientes,4863,108.06666666666666
+Caballito,6,NA,2015,Oct,NA,1-2 ambientes,4976,110.57777777777778
+Caballito,6,NA,2015,Nov,NA,1-2 ambientes,4818,107.06666666666666
+Caballito,6,NA,2015,Dic,NA,1-2 ambientes,4800,106.66666666666667
+Caballito,6,NA,2016,Ene,NA,1-2 ambientes,5164,114.75555555555556
+Caballito,6,NA,2016,Feb,NA,1-2 ambientes,5458,121.28888888888889
+Caballito,6,NA,2016,Mar,NA,1-2 ambientes,5434,120.75555555555556
+Caballito,6,NA,2016,Abr,NA,1-2 ambientes,5830,129.55555555555554
+Caballito,6,2016-05-01,2016,May,2,1-2 ambientes,6105,135.66666666666666
+Caballito,6,NA,2016,Jun,NA,1-2 ambientes,5887,130.82222222222222
+Caballito,6,NA,2016,Jul,NA,1-2 ambientes,6325,140.55555555555554
+Caballito,6,NA,2016,Ago,NA,1-2 ambientes,6188,137.51111111111112
+Caballito,6,NA,2016,Sep,NA,1-2 ambientes,6410,142.44444444444446
+Caballito,6,NA,2016,Oct,NA,1-2 ambientes,6535,145.22222222222223
+Caballito,6,NA,2016,Nov,NA,1-2 ambientes,6812,151.37777777777777
+Caballito,6,NA,2016,Dic,NA,1-2 ambientes,6678,148.4
+Caballito,6,NA,2017,Ene,NA,1-2 ambientes,6685,148.55555555555554
+Caballito,6,NA,2017,Feb,NA,1-2 ambientes,6808,151.2888888888889
+Caballito,6,NA,2017,Mar,NA,1-2 ambientes,7021,156.0222222222222
+Caballito,6,NA,2017,Abr,NA,1-2 ambientes,7626,169.46666666666667
+Caballito,6,2017-05-01,2017,May,2,1-2 ambientes,8586,190.8
+Caballito,6,NA,2017,Jun,NA,1-2 ambientes,8424,187.2
+Caballito,6,NA,2017,Jul,NA,1-2 ambientes,8192,182.04444444444445
+Caballito,6,NA,2017,Ago,NA,1-2 ambientes,8304,184.53333333333333
+Caballito,6,NA,2017,Sep,NA,1-2 ambientes,8956,199.0222222222222
+Caballito,6,NA,2017,Oct,NA,1-2 ambientes,8707,193.48888888888888
+Caballito,6,NA,2017,Nov,NA,1-2 ambientes,9131,202.9111111111111
+Caballito,6,NA,2017,Dic,NA,1-2 ambientes,9529,211.75555555555556
+Caballito,6,NA,2018,Ene,NA,1-2 ambientes,9321,207.13333333333333
+Caballito,6,NA,2018,Feb,NA,1-2 ambientes,9763,216.95555555555555
+Caballito,6,NA,2018,Mar,NA,1-2 ambientes,9615,213.66666666666666
+Caballito,6,NA,2018,Abr,NA,1-2 ambientes,10387,230.82222222222222
+Caballito,6,2018-05-01,2018,May,2,1-2 ambientes,10516,233.6888888888889
+Caballito,6,NA,2018,Jun,NA,1-2 ambientes,10445,232.11111111111111
+Caballito,6,NA,2018,Jul,NA,1-2 ambientes,11034,245.2
+Caballito,6,NA,2018,Ago,NA,1-2 ambientes,11246,249.9111111111111
+Caballito,6,NA,2018,Sep,NA,1-2 ambientes,11567,257.0444444444444
+Caballito,6,NA,2018,Oct,NA,1-2 ambientes,12395,275.44444444444446
+Caballito,6,NA,2018,Nov,NA,1-2 ambientes,12089,268.64444444444445
+Caballito,6,NA,2018,Dic,NA,1-2 ambientes,12210,271.3333333333333
+Caballito,6,NA,2019,Ene,NA,1-2 ambientes,12627,280.6
+Caballito,6,NA,2019,Feb,NA,1-2 ambientes,13232,294.0444444444444
+Caballito,6,NA,2019,Mar,NA,1-2 ambientes,13361,296.9111111111111
+Caballito,6,NA,2019,Abr,NA,1-2 ambientes,13675,303.8888888888889
+Caballito,6,2019-05-01,2019,May,2,1-2 ambientes,13599,302.2
+Caballito,6,NA,2019,Jun,NA,1-2 ambientes,14324,318.31111111111113
+Caballito,6,NA,2019,Jul,NA,1-2 ambientes,14768,328.1777777777778
+Caballito,6,NA,2019,Ago,NA,1-2 ambientes,14832,329.6
+Chacarita,15,NA,2013,Jul,NA,1-2 ambientes,2956,65.68888888888888
+Chacarita,15,NA,2013,Ago,NA,1-2 ambientes,2661,59.13333333333333
+Chacarita,15,NA,2013,Sep,NA,1-2 ambientes,2703,60.06666666666667
+Chacarita,15,NA,2013,Nov,NA,1-2 ambientes,3058,67.95555555555555
+Chacarita,15,NA,2013,Dic,NA,1-2 ambientes,3190,70.88888888888889
+Chacarita,15,NA,2015,Jun,NA,1-2 ambientes,4638,103.06666666666666
+Chacarita,15,NA,2015,Ago,NA,1-2 ambientes,4956,110.13333333333334
+Chacarita,15,NA,2016,Sep,NA,1-2 ambientes,7217,160.37777777777777
+Chacarita,15,NA,2016,Oct,NA,1-2 ambientes,6859,152.42222222222222
+Chacarita,15,NA,2016,Nov,NA,1-2 ambientes,7370,163.77777777777777
+Chacarita,15,NA,2016,Dic,NA,1-2 ambientes,7571,168.24444444444444
+Chacarita,15,NA,2017,Ene,NA,1-2 ambientes,7562,168.04444444444445
+Chacarita,15,NA,2017,Mar,NA,1-2 ambientes,7757,172.37777777777777
+Chacarita,15,NA,2017,Abr,NA,1-2 ambientes,7973,177.17777777777778
+Chacarita,15,2017-05-01,2017,May,2,1-2 ambientes,8548,189.95555555555555
+Chacarita,15,NA,2017,Jun,NA,1-2 ambientes,8608,191.2888888888889
+Chacarita,15,NA,2017,Jul,NA,1-2 ambientes,8263,183.62222222222223
+Chacarita,15,NA,2017,Dic,NA,1-2 ambientes,10119,224.86666666666667
+Chacarita,15,2018-05-01,2018,May,2,1-2 ambientes,11758,261.2888888888889
+Chacarita,15,NA,2018,Jun,NA,1-2 ambientes,11957,265.7111111111111
+Chacarita,15,NA,2018,Ago,NA,1-2 ambientes,12526,278.35555555555555
+Chacarita,15,NA,2018,Nov,NA,1-2 ambientes,12914,286.97777777777776
+Coghlan,12,NA,2015,Jul,NA,1-2 ambientes,4778,106.17777777777778
+Coghlan,12,2017-05-01,2017,May,2,1-2 ambientes,8742,194.26666666666668
+Colegiales,13,NA,2013,Jul,NA,1-2 ambientes,2972,66.04444444444445
+Colegiales,13,NA,2013,Ago,NA,1-2 ambientes,2954,65.64444444444445
+Colegiales,13,NA,2013,Sep,NA,1-2 ambientes,3112,69.15555555555555
+Colegiales,13,NA,2013,Oct,NA,1-2 ambientes,3004,66.75555555555556
+Colegiales,13,NA,2013,Nov,NA,1-2 ambientes,3198,71.06666666666666
+Colegiales,13,NA,2013,Dic,NA,1-2 ambientes,3171,70.46666666666667
+Colegiales,13,NA,2014,Ene,NA,1-2 ambientes,3206,71.24444444444444
+Colegiales,13,NA,2014,Feb,NA,1-2 ambientes,3152,70.04444444444445
+Colegiales,13,NA,2014,Mar,NA,1-2 ambientes,3419,75.97777777777777
+Colegiales,13,2014-05-01,2014,May,2,1-2 ambientes,3328,73.95555555555555
+Colegiales,13,NA,2015,Jun,NA,1-2 ambientes,5192,115.37777777777778
+Colegiales,13,NA,2015,Jul,NA,1-2 ambientes,4940,109.77777777777777
+Colegiales,13,NA,2015,Ago,NA,1-2 ambientes,5529,122.86666666666666
+Colegiales,13,NA,2016,Jul,NA,1-2 ambientes,6860,152.44444444444446
+Colegiales,13,NA,2016,Sep,NA,1-2 ambientes,7554,167.86666666666667
+Colegiales,13,NA,2016,Oct,NA,1-2 ambientes,7896,175.46666666666667
+Colegiales,13,NA,2016,Nov,NA,1-2 ambientes,7690,170.88888888888889
+Colegiales,13,NA,2016,Dic,NA,1-2 ambientes,7581,168.46666666666667
+Colegiales,13,NA,2017,Ene,NA,1-2 ambientes,8230,182.88888888888889
+Colegiales,13,NA,2017,Feb,NA,1-2 ambientes,7823,173.84444444444443
+Colegiales,13,NA,2017,Mar,NA,1-2 ambientes,8391,186.46666666666667
+Colegiales,13,NA,2017,Abr,NA,1-2 ambientes,8627,191.7111111111111
+Colegiales,13,2017-05-01,2017,May,2,1-2 ambientes,9591,213.13333333333333
+Colegiales,13,NA,2017,Jun,NA,1-2 ambientes,9350,207.77777777777777
+Colegiales,13,NA,2017,Ago,NA,1-2 ambientes,9276,206.13333333333333
+Colegiales,13,NA,2017,Sep,NA,1-2 ambientes,10745,238.77777777777777
+Colegiales,13,NA,2017,Nov,NA,1-2 ambientes,10307,229.04444444444445
+Colegiales,13,NA,2017,Dic,NA,1-2 ambientes,10241,227.57777777777778
+Colegiales,13,NA,2018,Mar,NA,1-2 ambientes,10478,232.84444444444443
+Colegiales,13,NA,2018,Jun,NA,1-2 ambientes,12927,287.26666666666665
+Colegiales,13,NA,2018,Jul,NA,1-2 ambientes,12521,278.24444444444447
+Colegiales,13,NA,2018,Ago,NA,1-2 ambientes,13059,290.2
+Colegiales,13,NA,2018,Sep,NA,1-2 ambientes,13315,295.8888888888889
+Colegiales,13,NA,2018,Oct,NA,1-2 ambientes,13080,290.6666666666667
+Colegiales,13,NA,2019,Ene,NA,1-2 ambientes,13992,310.93333333333334
+Colegiales,13,NA,2019,Abr,NA,1-2 ambientes,16253,361.1777777777778
+Colegiales,13,2019-05-01,2019,May,2,1-2 ambientes,16642,369.8222222222222
+Colegiales,13,NA,2019,Jun,NA,1-2 ambientes,16044,356.53333333333336
+Colegiales,13,NA,2019,Ago,NA,1-2 ambientes,16303,362.2888888888889
+Flores,7,NA,2013,Jul,NA,1-2 ambientes,2372,52.71111111111111
+Flores,7,NA,2013,Ago,NA,1-2 ambientes,2371,52.68888888888889
+Flores,7,NA,2013,Sep,NA,1-2 ambientes,2571,57.13333333333333
+Flores,7,NA,2013,Oct,NA,1-2 ambientes,2750,61.111111111111114
+Flores,7,NA,2013,Nov,NA,1-2 ambientes,2712,60.266666666666666
+Flores,7,NA,2013,Dic,NA,1-2 ambientes,2825,62.77777777777778
+Flores,7,NA,2014,Ene,NA,1-2 ambientes,3042,67.6
+Flores,7,NA,2014,Feb,NA,1-2 ambientes,2932,65.15555555555555
+Flores,7,NA,2014,Mar,NA,1-2 ambientes,2798,62.17777777777778
+Flores,7,NA,2014,Abr,NA,1-2 ambientes,2699,59.977777777777774
+Flores,7,2014-05-01,2014,May,2,1-2 ambientes,2997,66.6
+Flores,7,NA,2014,Jun,NA,1-2 ambientes,2952,65.6
+Flores,7,NA,2014,Jul,NA,1-2 ambientes,3060,68
+Flores,7,NA,2014,Ago,NA,1-2 ambientes,3195,71
+Flores,7,NA,2014,Sep,NA,1-2 ambientes,3150,70
+Flores,7,NA,2014,Oct,NA,1-2 ambientes,3362,74.71111111111111
+Flores,7,NA,2014,Nov,NA,1-2 ambientes,3242,72.04444444444445
+Flores,7,NA,2014,Dic,NA,1-2 ambientes,3204,71.2
+Flores,7,NA,2015,Ene,NA,1-2 ambientes,3299,73.31111111111112
+Flores,7,NA,2015,Feb,NA,1-2 ambientes,3386,75.24444444444444
+Flores,7,NA,2015,Mar,NA,1-2 ambientes,3659,81.31111111111112
+Flores,7,NA,2015,Abr,NA,1-2 ambientes,3574,79.42222222222222
+Flores,7,2015-05-01,2015,May,2,1-2 ambientes,4065,90.33333333333333
+Flores,7,NA,2015,Jun,NA,1-2 ambientes,4201,93.35555555555555
+Flores,7,NA,2015,Jul,NA,1-2 ambientes,4056,90.13333333333334
+Flores,7,NA,2015,Ago,NA,1-2 ambientes,4075,90.55555555555556
+Flores,7,NA,2015,Sep,NA,1-2 ambientes,4349,96.64444444444445
+Flores,7,NA,2016,Ene,NA,1-2 ambientes,4477,99.4888888888889
+Flores,7,NA,2016,Feb,NA,1-2 ambientes,4936,109.68888888888888
+Flores,7,NA,2016,Mar,NA,1-2 ambientes,5161,114.68888888888888
+Flores,7,NA,2016,Abr,NA,1-2 ambientes,5205,115.66666666666667
+Flores,7,2016-05-01,2016,May,2,1-2 ambientes,5233,116.28888888888889
+Flores,7,NA,2016,Jun,NA,1-2 ambientes,5475,121.66666666666667
+Flores,7,NA,2016,Jul,NA,1-2 ambientes,5542,123.15555555555555
+Flores,7,NA,2016,Ago,NA,1-2 ambientes,5720,127.11111111111111
+Flores,7,NA,2016,Sep,NA,1-2 ambientes,5767,128.15555555555557
+Flores,7,NA,2016,Oct,NA,1-2 ambientes,5849,129.9777777777778
+Flores,7,NA,2016,Nov,NA,1-2 ambientes,5764,128.0888888888889
+Flores,7,NA,2016,Dic,NA,1-2 ambientes,6590,146.44444444444446
+Flores,7,NA,2017,Ene,NA,1-2 ambientes,6398,142.17777777777778
+Flores,7,NA,2017,Feb,NA,1-2 ambientes,6283,139.62222222222223
+Flores,7,NA,2017,Mar,NA,1-2 ambientes,6545,145.44444444444446
+Flores,7,NA,2017,Abr,NA,1-2 ambientes,6645,147.66666666666666
+Flores,7,2017-05-01,2017,May,2,1-2 ambientes,6501,144.46666666666667
+Flores,7,NA,2017,Jun,NA,1-2 ambientes,7570,168.22222222222223
+Flores,7,NA,2017,Jul,NA,1-2 ambientes,7377,163.93333333333334
+Flores,7,NA,2017,Ago,NA,1-2 ambientes,7602,168.93333333333334
+Flores,7,NA,2017,Sep,NA,1-2 ambientes,7904,175.64444444444445
+Flores,7,NA,2017,Oct,NA,1-2 ambientes,8003,177.84444444444443
+Flores,7,NA,2017,Nov,NA,1-2 ambientes,8223,182.73333333333332
+Flores,7,NA,2017,Dic,NA,1-2 ambientes,8961,199.13333333333333
+Flores,7,NA,2018,Ene,NA,1-2 ambientes,8746,194.35555555555555
+Flores,7,NA,2018,Feb,NA,1-2 ambientes,9197,204.37777777777777
+Flores,7,NA,2018,Mar,NA,1-2 ambientes,9065,201.44444444444446
+Flores,7,NA,2018,Abr,NA,1-2 ambientes,9644,214.3111111111111
+Flores,7,2018-05-01,2018,May,2,1-2 ambientes,9670,214.88888888888889
+Flores,7,NA,2018,Jun,NA,1-2 ambientes,9917,220.37777777777777
+Flores,7,NA,2018,Jul,NA,1-2 ambientes,10268,228.17777777777778
+Flores,7,NA,2018,Ago,NA,1-2 ambientes,10213,226.95555555555555
+Flores,7,NA,2018,Sep,NA,1-2 ambientes,10395,231
+Flores,7,NA,2018,Oct,NA,1-2 ambientes,10825,240.55555555555554
+Flores,7,NA,2018,Nov,NA,1-2 ambientes,11608,257.9555555555556
+Flores,7,NA,2018,Dic,NA,1-2 ambientes,11599,257.75555555555553
+Flores,7,NA,2019,Ene,NA,1-2 ambientes,11144,247.64444444444445
+Flores,7,NA,2019,Feb,NA,1-2 ambientes,11888,264.1777777777778
+Flores,7,NA,2019,Mar,NA,1-2 ambientes,12403,275.6222222222222
+Flores,7,NA,2019,Abr,NA,1-2 ambientes,12561,279.1333333333333
+Flores,7,2019-05-01,2019,May,2,1-2 ambientes,12917,287.0444444444444
+Flores,7,NA,2019,Jun,NA,1-2 ambientes,12723,282.73333333333335
+Flores,7,NA,2019,Jul,NA,1-2 ambientes,13141,292.02222222222224
+Flores,7,NA,2019,Ago,NA,1-2 ambientes,13340,296.44444444444446
+Floresta,10,NA,2013,Jul,NA,1-2 ambientes,2297,51.044444444444444
+Floresta,10,NA,2013,Ago,NA,1-2 ambientes,2382,52.93333333333333
+Floresta,10,NA,2013,Sep,NA,1-2 ambientes,2636,58.577777777777776
+Floresta,10,NA,2013,Oct,NA,1-2 ambientes,2611,58.022222222222226
+Floresta,10,NA,2013,Nov,NA,1-2 ambientes,2457,54.6
+Floresta,10,NA,2013,Dic,NA,1-2 ambientes,2662,59.15555555555556
+Floresta,10,NA,2015,Abr,NA,1-2 ambientes,3370,74.88888888888889
+Floresta,10,2015-05-01,2015,May,2,1-2 ambientes,3827,85.04444444444445
+Floresta,10,NA,2015,Jun,NA,1-2 ambientes,3947,87.71111111111111
+Floresta,10,NA,2015,Jul,NA,1-2 ambientes,3825,85
+Floresta,10,NA,2015,Ago,NA,1-2 ambientes,3853,85.62222222222222
+Floresta,10,NA,2015,Sep,NA,1-2 ambientes,4169,92.64444444444445
+Floresta,10,NA,2016,Feb,NA,1-2 ambientes,5063,112.5111111111111
+Floresta,10,NA,2016,Mar,NA,1-2 ambientes,5262,116.93333333333334
+Floresta,10,NA,2016,Jun,NA,1-2 ambientes,5659,125.75555555555556
+Floresta,10,NA,2016,Jul,NA,1-2 ambientes,5448,121.06666666666666
+Floresta,10,NA,2016,Ago,NA,1-2 ambientes,6420,142.66666666666666
+Floresta,10,NA,2016,Sep,NA,1-2 ambientes,5904,131.2
+Floresta,10,NA,2016,Oct,NA,1-2 ambientes,5595,124.33333333333333
+Floresta,10,NA,2016,Nov,NA,1-2 ambientes,5506,122.35555555555555
+Floresta,10,NA,2016,Dic,NA,1-2 ambientes,5746,127.68888888888888
+Floresta,10,NA,2017,Ene,NA,1-2 ambientes,5917,131.48888888888888
+Floresta,10,NA,2017,Feb,NA,1-2 ambientes,6366,141.46666666666667
+Floresta,10,NA,2017,Abr,NA,1-2 ambientes,7072,157.15555555555557
+Floresta,10,2017-05-01,2017,May,2,1-2 ambientes,6908,153.51111111111112
+Floresta,10,NA,2017,Jun,NA,1-2 ambientes,6359,141.3111111111111
+Floresta,10,NA,2017,Jul,NA,1-2 ambientes,6553,145.62222222222223
+Floresta,10,NA,2017,Ago,NA,1-2 ambientes,7063,156.95555555555555
+Floresta,10,NA,2017,Sep,NA,1-2 ambientes,7622,169.37777777777777
+Floresta,10,NA,2017,Nov,NA,1-2 ambientes,8281,184.0222222222222
+Floresta,10,NA,2018,Ene,NA,1-2 ambientes,8895,197.66666666666666
+Floresta,10,NA,2018,Mar,NA,1-2 ambientes,8811,195.8
+Liniers,9,NA,2013,Jul,NA,1-2 ambientes,1952,43.37777777777778
+Liniers,9,NA,2013,Ago,NA,1-2 ambientes,3022,67.15555555555555
+Liniers,9,NA,2013,Sep,NA,1-2 ambientes,2197,48.82222222222222
+Liniers,9,NA,2013,Nov,NA,1-2 ambientes,2262,50.266666666666666
+Liniers,9,NA,2013,Dic,NA,1-2 ambientes,2222,49.37777777777778
+Liniers,9,NA,2015,Abr,NA,1-2 ambientes,3406,75.68888888888888
+Liniers,9,NA,2015,Jul,NA,1-2 ambientes,3326,73.91111111111111
+Liniers,9,NA,2016,Abr,NA,1-2 ambientes,4706,104.57777777777778
+Liniers,9,2016-05-01,2016,May,2,1-2 ambientes,5017,111.4888888888889
+Liniers,9,NA,2016,Jul,NA,1-2 ambientes,5698,126.62222222222222
+Liniers,9,NA,2016,Ago,NA,1-2 ambientes,4860,108
+Liniers,9,NA,2016,Oct,NA,1-2 ambientes,6338,140.84444444444443
+Liniers,9,NA,2016,Nov,NA,1-2 ambientes,6289,139.75555555555556
+Liniers,9,NA,2016,Dic,NA,1-2 ambientes,6241,138.6888888888889
+Liniers,9,NA,2017,Ene,NA,1-2 ambientes,5996,133.24444444444444
+Liniers,9,NA,2017,Feb,NA,1-2 ambientes,6233,138.51111111111112
+Liniers,9,NA,2017,Mar,NA,1-2 ambientes,5952,132.26666666666668
+Liniers,9,NA,2017,Abr,NA,1-2 ambientes,5808,129.06666666666666
+Liniers,9,2017-05-01,2017,May,2,1-2 ambientes,5903,131.17777777777778
+Liniers,9,NA,2017,Jun,NA,1-2 ambientes,5825,129.44444444444446
+Liniers,9,NA,2018,Mar,NA,1-2 ambientes,7678,170.62222222222223
+Liniers,9,NA,2018,Abr,NA,1-2 ambientes,8381,186.24444444444444
+Liniers,9,2018-05-01,2018,May,2,1-2 ambientes,7956,176.8
+Liniers,9,NA,2018,Jun,NA,1-2 ambientes,8748,194.4
+Mataderos,9,NA,2013,Ago,NA,1-2 ambientes,2383,52.955555555555556
+Mataderos,9,NA,2013,Sep,NA,1-2 ambientes,2965,65.88888888888889
+Mataderos,9,NA,2013,Oct,NA,1-2 ambientes,2939,65.31111111111112
+Mataderos,9,NA,2015,Jun,NA,1-2 ambientes,3811,84.68888888888888
+Mataderos,9,NA,2015,Jul,NA,1-2 ambientes,3896,86.57777777777778
+Mataderos,9,NA,2015,Ago,NA,1-2 ambientes,4129,91.75555555555556
+Mataderos,9,NA,2015,Sep,NA,1-2 ambientes,4364,96.97777777777777
+Mataderos,9,NA,2016,Mar,NA,1-2 ambientes,4322,96.04444444444445
+Mataderos,9,NA,2016,Abr,NA,1-2 ambientes,5646,125.46666666666667
+Mataderos,9,NA,2016,Sep,NA,1-2 ambientes,6348,141.06666666666666
+Mataderos,9,NA,2016,Oct,NA,1-2 ambientes,6343,140.95555555555555
+Mataderos,9,NA,2016,Nov,NA,1-2 ambientes,6528,145.06666666666666
+Mataderos,9,NA,2016,Dic,NA,1-2 ambientes,5320,118.22222222222223
+Mataderos,9,NA,2017,Feb,NA,1-2 ambientes,6437,143.04444444444445
+Mataderos,9,NA,2017,Mar,NA,1-2 ambientes,6271,139.35555555555555
+Mataderos,9,2017-05-01,2017,May,2,1-2 ambientes,6535,145.22222222222223
+Mataderos,9,NA,2018,Ago,NA,1-2 ambientes,8666,192.57777777777778
+Monte Castro,10,NA,2013,Oct,NA,1-2 ambientes,2650,58.888888888888886
+Monte Castro,10,NA,2013,Dic,NA,1-2 ambientes,2756,61.24444444444445
+Monte Castro,10,NA,2015,Jun,NA,1-2 ambientes,3714,82.53333333333333
+Monte Castro,10,NA,2015,Sep,NA,1-2 ambientes,4422,98.26666666666667
+Monte Castro,10,2016-05-01,2016,May,2,1-2 ambientes,5127,113.93333333333334
+Monte Castro,10,NA,2016,Jun,NA,1-2 ambientes,5310,118
+Monte Castro,10,NA,2016,Oct,NA,1-2 ambientes,5911,131.35555555555555
+Monte Castro,10,NA,2017,Feb,NA,1-2 ambientes,6642,147.6
+Monte Castro,10,NA,2017,Mar,NA,1-2 ambientes,6426,142.8
+Monte Castro,10,2017-05-01,2017,May,2,1-2 ambientes,6422,142.7111111111111
+Monte Castro,10,NA,2018,Ene,NA,1-2 ambientes,8600,191.11111111111111
+Monserrat,1,NA,2013,Ago,NA,1-2 ambientes,2494,55.422222222222224
+Monserrat,1,NA,2013,Oct,NA,1-2 ambientes,2582,57.37777777777778
+Monserrat,1,NA,2016,Jul,NA,1-2 ambientes,6191,137.57777777777778
+Monserrat,1,NA,2016,Sep,NA,1-2 ambientes,6869,152.64444444444445
+Monserrat,1,NA,2016,Oct,NA,1-2 ambientes,6154,136.75555555555556
+Monserrat,1,NA,2017,Ene,NA,1-2 ambientes,7012,155.82222222222222
+Monserrat,1,NA,2019,Abr,NA,1-2 ambientes,13657,303.4888888888889
+Monserrat,1,2019-05-01,2019,May,2,1-2 ambientes,13499,299.97777777777776
+Monserrat,1,NA,2019,Jun,NA,1-2 ambientes,14112,313.6
+Nueva Pompeya,4,NA,2013,Oct,NA,1-2 ambientes,2800,62.22222222222222
+Nuñez,13,NA,2013,Jul,NA,1-2 ambientes,3143,69.84444444444445
+Nuñez,13,NA,2013,Ago,NA,1-2 ambientes,3086,68.57777777777778
+Nuñez,13,NA,2013,Sep,NA,1-2 ambientes,3036,67.46666666666667
+Nuñez,13,NA,2013,Oct,NA,1-2 ambientes,2954,65.64444444444445
+Nuñez,13,NA,2013,Nov,NA,1-2 ambientes,3356,74.57777777777778
+Nuñez,13,NA,2013,Dic,NA,1-2 ambientes,3368,74.84444444444445
+Nuñez,13,NA,2014,Ene,NA,1-2 ambientes,3424,76.08888888888889
+Nuñez,13,NA,2014,Feb,NA,1-2 ambientes,3339,74.2
+Nuñez,13,NA,2014,Mar,NA,1-2 ambientes,3678,81.73333333333333
+Nuñez,13,2014-05-01,2014,May,2,1-2 ambientes,4144,92.08888888888889
+Nuñez,13,NA,2014,Jun,NA,1-2 ambientes,3648,81.06666666666666
+Nuñez,13,NA,2014,Jul,NA,1-2 ambientes,3847,85.4888888888889
+Nuñez,13,NA,2014,Ago,NA,1-2 ambientes,3519,78.2
+Nuñez,13,NA,2014,Sep,NA,1-2 ambientes,3906,86.8
+Nuñez,13,NA,2014,Oct,NA,1-2 ambientes,4012,89.15555555555555
+Nuñez,13,NA,2014,Nov,NA,1-2 ambientes,4219,93.75555555555556
+Nuñez,13,NA,2014,Dic,NA,1-2 ambientes,4554,101.2
+Nuñez,13,NA,2015,Ene,NA,1-2 ambientes,4186,93.02222222222223
+Nuñez,13,NA,2015,Feb,NA,1-2 ambientes,4193,93.17777777777778
+Nuñez,13,NA,2015,Abr,NA,1-2 ambientes,4608,102.4
+Nuñez,13,2015-05-01,2015,May,2,1-2 ambientes,4895,108.77777777777777
+Nuñez,13,NA,2015,Jun,NA,1-2 ambientes,5208,115.73333333333333
+Nuñez,13,NA,2015,Jul,NA,1-2 ambientes,5049,112.2
+Nuñez,13,NA,2015,Ago,NA,1-2 ambientes,5358,119.06666666666666
+Nuñez,13,NA,2015,Oct,NA,1-2 ambientes,5567,123.71111111111111
+Nuñez,13,NA,2016,Abr,NA,1-2 ambientes,6339,140.86666666666667
+Nuñez,13,NA,2016,Jun,NA,1-2 ambientes,7023,156.06666666666666
+Nuñez,13,NA,2016,Jul,NA,1-2 ambientes,6973,154.95555555555555
+Nuñez,13,NA,2016,Ago,NA,1-2 ambientes,6865,152.55555555555554
+Nuñez,13,NA,2016,Sep,NA,1-2 ambientes,7554,167.86666666666667
+Nuñez,13,NA,2016,Oct,NA,1-2 ambientes,7582,168.48888888888888
+Nuñez,13,NA,2016,Nov,NA,1-2 ambientes,8350,185.55555555555554
+Nuñez,13,NA,2016,Dic,NA,1-2 ambientes,7587,168.6
+Nuñez,13,NA,2017,Ene,NA,1-2 ambientes,7817,173.7111111111111
+Nuñez,13,NA,2017,Mar,NA,1-2 ambientes,9175,203.88888888888889
+Nuñez,13,NA,2017,Abr,NA,1-2 ambientes,9313,206.95555555555555
+Nuñez,13,2017-05-01,2017,May,2,1-2 ambientes,9316,207.0222222222222
+Nuñez,13,NA,2017,Jun,NA,1-2 ambientes,9904,220.0888888888889
+Nuñez,13,NA,2017,Jul,NA,1-2 ambientes,9180,204
+Nuñez,13,NA,2017,Ago,NA,1-2 ambientes,9861,219.13333333333333
+Nuñez,13,NA,2017,Sep,NA,1-2 ambientes,9766,217.0222222222222
+Nuñez,13,NA,2017,Oct,NA,1-2 ambientes,10682,237.37777777777777
+Nuñez,13,NA,2017,Nov,NA,1-2 ambientes,10061,223.57777777777778
+Nuñez,13,NA,2017,Dic,NA,1-2 ambientes,10560,234.66666666666666
+Nuñez,13,NA,2018,Ene,NA,1-2 ambientes,11632,258.4888888888889
+Nuñez,13,NA,2018,Feb,NA,1-2 ambientes,11879,263.97777777777776
+Nuñez,13,NA,2018,Mar,NA,1-2 ambientes,12004,266.75555555555553
+Nuñez,13,NA,2018,Abr,NA,1-2 ambientes,12928,287.2888888888889
+Nuñez,13,2018-05-01,2018,May,2,1-2 ambientes,12404,275.64444444444445
+Nuñez,13,NA,2018,Jul,NA,1-2 ambientes,12780,284
+Nuñez,13,NA,2018,Ago,NA,1-2 ambientes,12769,283.75555555555553
+Nuñez,13,NA,2018,Oct,NA,1-2 ambientes,13724,304.97777777777776
+Nuñez,13,NA,2018,Nov,NA,1-2 ambientes,13389,297.53333333333336
+Nuñez,13,NA,2018,Dic,NA,1-2 ambientes,14103,313.4
+Nuñez,13,NA,2019,Ene,NA,1-2 ambientes,15375,341.6666666666667
+Nuñez,13,NA,2019,Feb,NA,1-2 ambientes,15209,337.97777777777776
+Nuñez,13,NA,2019,Mar,NA,1-2 ambientes,15984,355.2
+Nuñez,13,NA,2019,Abr,NA,1-2 ambientes,15788,350.84444444444443
+Nuñez,13,2019-05-01,2019,May,2,1-2 ambientes,16953,376.73333333333335
+Nuñez,13,NA,2019,Jun,NA,1-2 ambientes,17694,393.2
+Nuñez,13,NA,2019,Jul,NA,1-2 ambientes,17923,398.2888888888889
+Nuñez,13,NA,2019,Ago,NA,1-2 ambientes,17257,383.4888888888889
+Palermo,14,NA,2013,Jul,NA,1-2 ambientes,3354,74.53333333333333
+Palermo,14,NA,2013,Ago,NA,1-2 ambientes,3290,73.11111111111111
+Palermo,14,NA,2013,Sep,NA,1-2 ambientes,3370,74.88888888888889
+Palermo,14,NA,2013,Oct,NA,1-2 ambientes,3248,72.17777777777778
+Palermo,14,NA,2013,Nov,NA,1-2 ambientes,3528,78.4
+Palermo,14,NA,2013,Dic,NA,1-2 ambientes,3628,80.62222222222222
+Palermo,14,NA,2014,Ene,NA,1-2 ambientes,3469,77.08888888888889
+Palermo,14,NA,2014,Feb,NA,1-2 ambientes,3828,85.06666666666666
+Palermo,14,NA,2014,Mar,NA,1-2 ambientes,3882,86.26666666666667
+Palermo,14,NA,2014,Abr,NA,1-2 ambientes,4449,98.86666666666666
+Palermo,14,2014-05-01,2014,May,2,1-2 ambientes,3947,87.71111111111111
+Palermo,14,NA,2014,Jun,NA,1-2 ambientes,4191,93.13333333333334
+Palermo,14,NA,2014,Jul,NA,1-2 ambientes,4177,92.82222222222222
+Palermo,14,NA,2014,Ago,NA,1-2 ambientes,4257,94.6
+Palermo,14,NA,2014,Sep,NA,1-2 ambientes,4381,97.35555555555555
+Palermo,14,NA,2014,Oct,NA,1-2 ambientes,4429,98.42222222222222
+Palermo,14,NA,2014,Nov,NA,1-2 ambientes,4493,99.84444444444445
+Palermo,14,NA,2014,Dic,NA,1-2 ambientes,4500,100
+Palermo,14,NA,2015,Ene,NA,1-2 ambientes,4468,99.28888888888889
+Palermo,14,NA,2015,Feb,NA,1-2 ambientes,4853,107.84444444444445
+Palermo,14,NA,2015,Mar,NA,1-2 ambientes,4826,107.24444444444444
+Palermo,14,NA,2015,Abr,NA,1-2 ambientes,4858,107.95555555555555
+Palermo,14,2015-05-01,2015,May,2,1-2 ambientes,5316,118.13333333333334
+Palermo,14,NA,2015,Jun,NA,1-2 ambientes,5506,122.35555555555555
+Palermo,14,NA,2015,Jul,NA,1-2 ambientes,5572,123.82222222222222
+Palermo,14,NA,2015,Ago,NA,1-2 ambientes,5552,123.37777777777778
+Palermo,14,NA,2015,Sep,NA,1-2 ambientes,6182,137.37777777777777
+Palermo,14,NA,2015,Oct,NA,1-2 ambientes,5796,128.8
+Palermo,14,NA,2015,Nov,NA,1-2 ambientes,6384,141.86666666666667
+Palermo,14,NA,2015,Dic,NA,1-2 ambientes,6632,147.37777777777777
+Palermo,14,NA,2016,Ene,NA,1-2 ambientes,6534,145.2
+Palermo,14,NA,2016,Feb,NA,1-2 ambientes,6958,154.62222222222223
+Palermo,14,NA,2016,Mar,NA,1-2 ambientes,7316,162.57777777777778
+Palermo,14,NA,2016,Abr,NA,1-2 ambientes,6929,153.9777777777778
+Palermo,14,2016-05-01,2016,May,2,1-2 ambientes,7969,177.0888888888889
+Palermo,14,NA,2016,Jun,NA,1-2 ambientes,7521,167.13333333333333
+Palermo,14,NA,2016,Jul,NA,1-2 ambientes,8166,181.46666666666667
+Palermo,14,NA,2016,Ago,NA,1-2 ambientes,8294,184.3111111111111
+Palermo,14,NA,2016,Sep,NA,1-2 ambientes,8428,187.2888888888889
+Palermo,14,NA,2016,Oct,NA,1-2 ambientes,8519,189.3111111111111
+Palermo,14,NA,2016,Nov,NA,1-2 ambientes,8664,192.53333333333333
+Palermo,14,NA,2016,Dic,NA,1-2 ambientes,8841,196.46666666666667
+Palermo,14,NA,2017,Ene,NA,1-2 ambientes,8958,199.06666666666666
+Palermo,14,NA,2017,Feb,NA,1-2 ambientes,9419,209.3111111111111
+Palermo,14,NA,2017,Mar,NA,1-2 ambientes,9730,216.22222222222223
+Palermo,14,NA,2017,Abr,NA,1-2 ambientes,9675,215
+Palermo,14,2017-05-01,2017,May,2,1-2 ambientes,10223,227.17777777777778
+Palermo,14,NA,2017,Jun,NA,1-2 ambientes,10513,233.62222222222223
+Palermo,14,NA,2017,Jul,NA,1-2 ambientes,10100,224.44444444444446
+Palermo,14,NA,2017,Ago,NA,1-2 ambientes,10507,233.48888888888888
+Palermo,14,NA,2017,Sep,NA,1-2 ambientes,10653,236.73333333333332
+Palermo,14,NA,2017,Oct,NA,1-2 ambientes,11746,261.02222222222224
+Palermo,14,NA,2017,Nov,NA,1-2 ambientes,11315,251.44444444444446
+Palermo,14,NA,2017,Dic,NA,1-2 ambientes,11557,256.8222222222222
+Palermo,14,NA,2018,Ene,NA,1-2 ambientes,12505,277.8888888888889
+Palermo,14,NA,2018,Feb,NA,1-2 ambientes,11686,259.68888888888887
+Palermo,14,NA,2018,Mar,NA,1-2 ambientes,13412,298.0444444444444
+Palermo,14,NA,2018,Abr,NA,1-2 ambientes,13180,292.8888888888889
+Palermo,14,2018-05-01,2018,May,2,1-2 ambientes,12914,286.97777777777776
+Palermo,14,NA,2018,Jun,NA,1-2 ambientes,13594,302.0888888888889
+Palermo,14,NA,2018,Jul,NA,1-2 ambientes,14214,315.8666666666667
+Palermo,14,NA,2018,Ago,NA,1-2 ambientes,14202,315.6
+Palermo,14,NA,2018,Sep,NA,1-2 ambientes,14474,321.64444444444445
+Palermo,14,NA,2018,Oct,NA,1-2 ambientes,14601,324.46666666666664
+Palermo,14,NA,2018,Nov,NA,1-2 ambientes,15048,334.4
+Palermo,14,NA,2018,Dic,NA,1-2 ambientes,14267,317.0444444444444
+Palermo,14,NA,2019,Ene,NA,1-2 ambientes,15940,354.22222222222223
+Palermo,14,NA,2019,Feb,NA,1-2 ambientes,16665,370.3333333333333
+Palermo,14,NA,2019,Mar,NA,1-2 ambientes,17114,380.31111111111113
+Palermo,14,NA,2019,Abr,NA,1-2 ambientes,16729,371.75555555555553
+Palermo,14,2019-05-01,2019,May,2,1-2 ambientes,17146,381.02222222222224
+Palermo,14,NA,2019,Jun,NA,1-2 ambientes,17950,398.8888888888889
+Palermo,14,NA,2019,Jul,NA,1-2 ambientes,18279,406.2
+Palermo,14,NA,2019,Ago,NA,1-2 ambientes,18555,412.3333333333333
+Parque Avellaneda,9,NA,2013,Oct,NA,1-2 ambientes,2627,58.37777777777778
+Parque Avellaneda,9,NA,2016,Nov,NA,1-2 ambientes,5284,117.42222222222222
+Parque Avellaneda,9,NA,2018,Ene,NA,1-2 ambientes,7968,177.06666666666666
+Parque Chacabuco,7,NA,2013,Jul,NA,1-2 ambientes,2467,54.82222222222222
+Parque Chacabuco,7,NA,2013,Ago,NA,1-2 ambientes,2423,53.84444444444444
+Parque Chacabuco,7,NA,2013,Sep,NA,1-2 ambientes,2664,59.2
+Parque Chacabuco,7,NA,2013,Nov,NA,1-2 ambientes,2960,65.77777777777777
+Parque Chacabuco,7,NA,2013,Dic,NA,1-2 ambientes,2855,63.44444444444444
+Parque Chacabuco,7,NA,2015,Abr,NA,1-2 ambientes,3991,88.68888888888888
+Parque Chacabuco,7,NA,2015,Jun,NA,1-2 ambientes,4766,105.91111111111111
+Parque Chacabuco,7,NA,2016,Jul,NA,1-2 ambientes,6629,147.3111111111111
+Parque Chacabuco,7,NA,2016,Sep,NA,1-2 ambientes,5827,129.48888888888888
+Parque Chacabuco,7,NA,2016,Oct,NA,1-2 ambientes,6799,151.0888888888889
+Parque Chacabuco,7,NA,2016,Nov,NA,1-2 ambientes,6434,142.9777777777778
+Parque Chacabuco,7,NA,2017,Ene,NA,1-2 ambientes,6523,144.95555555555555
+Parque Chacabuco,7,NA,2017,Feb,NA,1-2 ambientes,6692,148.7111111111111
+Parque Chacabuco,7,NA,2017,Mar,NA,1-2 ambientes,6455,143.44444444444446
+Parque Chacabuco,7,NA,2017,Abr,NA,1-2 ambientes,7214,160.3111111111111
+Parque Chacabuco,7,NA,2017,Jun,NA,1-2 ambientes,7507,166.82222222222222
+Parque Chacabuco,7,NA,2017,Ago,NA,1-2 ambientes,7558,167.95555555555555
+Parque Chacabuco,7,NA,2017,Nov,NA,1-2 ambientes,8330,185.11111111111111
+Parque Chacabuco,7,NA,2018,Feb,NA,1-2 ambientes,9933,220.73333333333332
+Parque Chacabuco,7,NA,2018,Abr,NA,1-2 ambientes,9397,208.82222222222222
+Parque Chacabuco,7,NA,2018,Jun,NA,1-2 ambientes,10200,226.66666666666666
+Parque Chacabuco,7,NA,2018,Sep,NA,1-2 ambientes,11089,246.42222222222222
+Parque Chacabuco,7,NA,2018,Oct,NA,1-2 ambientes,11458,254.62222222222223
+Parque Chacabuco,7,NA,2018,Nov,NA,1-2 ambientes,12054,267.8666666666667
+Parque Chas,15,NA,2013,Oct,NA,1-2 ambientes,2774,61.644444444444446
+Parque Chas,15,NA,2013,Dic,NA,1-2 ambientes,2975,66.11111111111111
+Parque Patricios,4,NA,2013,Jul,NA,1-2 ambientes,2371,52.68888888888889
+Parque Patricios,4,NA,2013,Ago,NA,1-2 ambientes,2886,64.13333333333334
+Parque Patricios,4,NA,2013,Oct,NA,1-2 ambientes,3277,72.82222222222222
+Puerto Madero,1,NA,2013,Jul,NA,1-2 ambientes,5989,133.0888888888889
+Puerto Madero,1,2015-05-01,2015,May,2,1-2 ambientes,10851,241.13333333333333
+Puerto Madero,1,NA,2015,Jun,NA,1-2 ambientes,11309,251.3111111111111
+Puerto Madero,1,NA,2015,Jul,NA,1-2 ambientes,10346,229.9111111111111
+Puerto Madero,1,NA,2016,Jul,NA,1-2 ambientes,13953,310.06666666666666
+Puerto Madero,1,NA,2016,Sep,NA,1-2 ambientes,14655,325.6666666666667
+Puerto Madero,1,NA,2016,Nov,NA,1-2 ambientes,13915,309.22222222222223
+Puerto Madero,1,NA,2017,Feb,NA,1-2 ambientes,16050,356.6666666666667
+Puerto Madero,1,NA,2017,Abr,NA,1-2 ambientes,14347,318.8222222222222
+Puerto Madero,1,2017-05-01,2017,May,2,1-2 ambientes,14572,323.8222222222222
+Puerto Madero,1,NA,2017,Jun,NA,1-2 ambientes,14528,322.84444444444443
+Puerto Madero,1,NA,2017,Jul,NA,1-2 ambientes,15153,336.73333333333335
+Puerto Madero,1,NA,2017,Ago,NA,1-2 ambientes,15044,334.31111111111113
+Puerto Madero,1,NA,2017,Sep,NA,1-2 ambientes,15936,354.1333333333333
+Recoleta,2,NA,2013,Jul,NA,1-2 ambientes,2912,64.71111111111111
+Recoleta,2,NA,2013,Ago,NA,1-2 ambientes,3137,69.71111111111111
+Recoleta,2,NA,2013,Sep,NA,1-2 ambientes,3110,69.11111111111111
+Recoleta,2,NA,2013,Oct,NA,1-2 ambientes,3060,68
+Recoleta,2,NA,2013,Nov,NA,1-2 ambientes,3221,71.57777777777778
+Recoleta,2,NA,2013,Dic,NA,1-2 ambientes,3211,71.35555555555555
+Recoleta,2,NA,2014,Ene,NA,1-2 ambientes,3333,74.06666666666666
+Recoleta,2,NA,2014,Feb,NA,1-2 ambientes,3376,75.02222222222223
+Recoleta,2,NA,2014,Mar,NA,1-2 ambientes,3571,79.35555555555555
+Recoleta,2,NA,2014,Abr,NA,1-2 ambientes,3578,79.5111111111111
+Recoleta,2,2014-05-01,2014,May,2,1-2 ambientes,3781,84.02222222222223
+Recoleta,2,NA,2014,Jun,NA,1-2 ambientes,4416,98.13333333333334
+Recoleta,2,NA,2014,Jul,NA,1-2 ambientes,4011,89.13333333333334
+Recoleta,2,NA,2014,Ago,NA,1-2 ambientes,3980,88.44444444444444
+Recoleta,2,NA,2014,Sep,NA,1-2 ambientes,3864,85.86666666666666
+Recoleta,2,NA,2014,Oct,NA,1-2 ambientes,4283,95.17777777777778
+Recoleta,2,NA,2014,Nov,NA,1-2 ambientes,4339,96.42222222222222
+Recoleta,2,NA,2014,Dic,NA,1-2 ambientes,4072,90.4888888888889
+Recoleta,2,NA,2015,Ene,NA,1-2 ambientes,4378,97.28888888888889
+Recoleta,2,NA,2015,Feb,NA,1-2 ambientes,4712,104.71111111111111
+Recoleta,2,NA,2015,Mar,NA,1-2 ambientes,4766,105.91111111111111
+Recoleta,2,NA,2015,Abr,NA,1-2 ambientes,4523,100.5111111111111
+Recoleta,2,2015-05-01,2015,May,2,1-2 ambientes,4810,106.88888888888889
+Recoleta,2,NA,2015,Jun,NA,1-2 ambientes,4872,108.26666666666667
+Recoleta,2,NA,2015,Jul,NA,1-2 ambientes,5090,113.11111111111111
+Recoleta,2,NA,2015,Ago,NA,1-2 ambientes,5514,122.53333333333333
+Recoleta,2,NA,2015,Sep,NA,1-2 ambientes,5324,118.31111111111112
+Recoleta,2,NA,2015,Oct,NA,1-2 ambientes,5331,118.46666666666667
+Recoleta,2,NA,2015,Nov,NA,1-2 ambientes,5639,125.31111111111112
+Recoleta,2,NA,2016,Ene,NA,1-2 ambientes,5825,129.44444444444446
+Recoleta,2,NA,2016,Feb,NA,1-2 ambientes,6687,148.6
+Recoleta,2,NA,2016,Mar,NA,1-2 ambientes,6478,143.95555555555555
+Recoleta,2,NA,2016,Abr,NA,1-2 ambientes,6230,138.44444444444446
+Recoleta,2,2016-05-01,2016,May,2,1-2 ambientes,7216,160.35555555555555
+Recoleta,2,NA,2016,Jun,NA,1-2 ambientes,6680,148.44444444444446
+Recoleta,2,NA,2016,Jul,NA,1-2 ambientes,7384,164.0888888888889
+Recoleta,2,NA,2016,Ago,NA,1-2 ambientes,7671,170.46666666666667
+Recoleta,2,NA,2016,Sep,NA,1-2 ambientes,7366,163.6888888888889
+Recoleta,2,NA,2016,Oct,NA,1-2 ambientes,7343,163.17777777777778
+Recoleta,2,NA,2016,Nov,NA,1-2 ambientes,8478,188.4
+Recoleta,2,NA,2016,Dic,NA,1-2 ambientes,8639,191.9777777777778
+Recoleta,2,NA,2017,Ene,NA,1-2 ambientes,8308,184.62222222222223
+Recoleta,2,NA,2017,Feb,NA,1-2 ambientes,8269,183.75555555555556
+Recoleta,2,NA,2017,Mar,NA,1-2 ambientes,8502,188.93333333333334
+Recoleta,2,NA,2017,Abr,NA,1-2 ambientes,8920,198.22222222222223
+Recoleta,2,2017-05-01,2017,May,2,1-2 ambientes,9752,216.7111111111111
+Recoleta,2,NA,2017,Jun,NA,1-2 ambientes,9249,205.53333333333333
+Recoleta,2,NA,2017,Jul,NA,1-2 ambientes,9590,213.11111111111111
+Recoleta,2,NA,2017,Ago,NA,1-2 ambientes,10009,222.42222222222222
+Recoleta,2,NA,2017,Sep,NA,1-2 ambientes,10756,239.0222222222222
+Recoleta,2,NA,2017,Oct,NA,1-2 ambientes,10776,239.46666666666667
+Recoleta,2,NA,2017,Nov,NA,1-2 ambientes,10069,223.75555555555556
+Recoleta,2,NA,2017,Dic,NA,1-2 ambientes,10790,239.77777777777777
+Recoleta,2,NA,2018,Ene,NA,1-2 ambientes,11666,259.24444444444447
+Recoleta,2,NA,2018,Feb,NA,1-2 ambientes,11306,251.24444444444444
+Recoleta,2,NA,2018,Mar,NA,1-2 ambientes,11517,255.93333333333334
+Recoleta,2,NA,2018,Abr,NA,1-2 ambientes,11897,264.3777777777778
+Recoleta,2,2018-05-01,2018,May,2,1-2 ambientes,11558,256.84444444444443
+Recoleta,2,NA,2018,Jun,NA,1-2 ambientes,12599,279.97777777777776
+Recoleta,2,NA,2018,Jul,NA,1-2 ambientes,12375,275
+Recoleta,2,NA,2018,Ago,NA,1-2 ambientes,12738,283.06666666666666
+Recoleta,2,NA,2018,Sep,NA,1-2 ambientes,12667,281.4888888888889
+Recoleta,2,NA,2018,Oct,NA,1-2 ambientes,13069,290.4222222222222
+Recoleta,2,NA,2018,Nov,NA,1-2 ambientes,13288,295.2888888888889
+Recoleta,2,NA,2018,Dic,NA,1-2 ambientes,13979,310.64444444444445
+Recoleta,2,NA,2019,Ene,NA,1-2 ambientes,14064,312.53333333333336
+Recoleta,2,NA,2019,Feb,NA,1-2 ambientes,14813,329.1777777777778
+Recoleta,2,NA,2019,Mar,NA,1-2 ambientes,14868,330.4
+Recoleta,2,NA,2019,Abr,NA,1-2 ambientes,15635,347.44444444444446
+Recoleta,2,2019-05-01,2019,May,2,1-2 ambientes,16006,355.68888888888887
+Recoleta,2,NA,2019,Jun,NA,1-2 ambientes,16038,356.4
+Recoleta,2,NA,2019,Jul,NA,1-2 ambientes,15767,350.3777777777778
+Recoleta,2,NA,2019,Ago,NA,1-2 ambientes,16991,377.5777777777778
+Retiro,1,NA,2013,Jul,NA,1-2 ambientes,2786,61.91111111111111
+Retiro,1,NA,2013,Oct,NA,1-2 ambientes,2949,65.53333333333333
+Retiro,1,NA,2015,Jun,NA,1-2 ambientes,4687,104.15555555555555
+Retiro,1,NA,2016,Sep,NA,1-2 ambientes,8148,181.06666666666666
+Retiro,1,NA,2016,Oct,NA,1-2 ambientes,6939,154.2
+Retiro,1,NA,2016,Nov,NA,1-2 ambientes,7809,173.53333333333333
+Retiro,1,NA,2016,Dic,NA,1-2 ambientes,7593,168.73333333333332
+Retiro,1,NA,2017,Ene,NA,1-2 ambientes,7998,177.73333333333332
+Retiro,1,NA,2017,Feb,NA,1-2 ambientes,7665,170.33333333333334
+Retiro,1,NA,2017,Abr,NA,1-2 ambientes,8955,199
+Retiro,1,2017-05-01,2017,May,2,1-2 ambientes,8145,181
+Retiro,1,NA,2017,Jun,NA,1-2 ambientes,8781,195.13333333333333
+Retiro,1,NA,2018,Oct,NA,1-2 ambientes,12951,287.8
+Retiro,1,NA,2019,Feb,NA,1-2 ambientes,14382,319.6
+Retiro,1,NA,2019,Ago,NA,1-2 ambientes,16339,363.0888888888889
+Saavedra,12,NA,2013,Jul,NA,1-2 ambientes,2994,66.53333333333333
+Saavedra,12,NA,2013,Ago,NA,1-2 ambientes,2853,63.4
+Saavedra,12,NA,2013,Sep,NA,1-2 ambientes,2908,64.62222222222222
+Saavedra,12,NA,2013,Oct,NA,1-2 ambientes,3005,66.77777777777777
+Saavedra,12,NA,2013,Nov,NA,1-2 ambientes,3003,66.73333333333333
+Saavedra,12,NA,2013,Dic,NA,1-2 ambientes,2974,66.08888888888889
+Saavedra,12,2014-05-01,2014,May,2,1-2 ambientes,3540,78.66666666666667
+Saavedra,12,NA,2014,Ago,NA,1-2 ambientes,3611,80.24444444444444
+Saavedra,12,NA,2014,Sep,NA,1-2 ambientes,3787,84.15555555555555
+Saavedra,12,NA,2014,Oct,NA,1-2 ambientes,3856,85.68888888888888
+Saavedra,12,NA,2015,Abr,NA,1-2 ambientes,4573,101.62222222222222
+Saavedra,12,2015-05-01,2015,May,2,1-2 ambientes,4273,94.95555555555555
+Saavedra,12,NA,2015,Jun,NA,1-2 ambientes,4704,104.53333333333333
+Saavedra,12,NA,2015,Jul,NA,1-2 ambientes,4526,100.57777777777778
+Saavedra,12,NA,2016,Mar,NA,1-2 ambientes,6685,148.55555555555554
+Saavedra,12,NA,2016,Abr,NA,1-2 ambientes,7654,170.0888888888889
+Saavedra,12,NA,2016,Jun,NA,1-2 ambientes,7962,176.93333333333334
+Saavedra,12,NA,2016,Sep,NA,1-2 ambientes,7107,157.93333333333334
+Saavedra,12,NA,2017,Ene,NA,1-2 ambientes,8199,182.2
+Saavedra,12,2017-05-01,2017,May,2,1-2 ambientes,9607,213.48888888888888
+Saavedra,12,NA,2017,Jun,NA,1-2 ambientes,9271,206.0222222222222
+Saavedra,12,NA,2017,Jul,NA,1-2 ambientes,9629,213.9777777777778
+Saavedra,12,NA,2017,Ago,NA,1-2 ambientes,9120,202.66666666666666
+Saavedra,12,NA,2017,Sep,NA,1-2 ambientes,9725,216.11111111111111
+Saavedra,12,NA,2017,Nov,NA,1-2 ambientes,10851,241.13333333333333
+Saavedra,12,NA,2017,Dic,NA,1-2 ambientes,10504,233.42222222222222
+Saavedra,12,NA,2018,Ene,NA,1-2 ambientes,10489,233.0888888888889
+Saavedra,12,2018-05-01,2018,May,2,1-2 ambientes,11825,262.77777777777777
+Saavedra,12,NA,2018,Jul,NA,1-2 ambientes,12567,279.26666666666665
+Saavedra,12,NA,2018,Ago,NA,1-2 ambientes,12236,271.9111111111111
+Saavedra,12,NA,2018,Sep,NA,1-2 ambientes,13063,290.2888888888889
+Saavedra,12,NA,2018,Oct,NA,1-2 ambientes,12906,286.8
+San Cristobal,3,NA,2017,Oct,NA,1-2 ambientes,8239,183.0888888888889
+San Cristobal,3,NA,2018,Jul,NA,1-2 ambientes,10196,226.57777777777778
+San Cristobal,3,NA,2018,Sep,NA,1-2 ambientes,10845,241
+San Cristobal,3,NA,2018,Oct,NA,1-2 ambientes,11057,245.7111111111111
+San Cristobal,3,NA,2019,Mar,NA,1-2 ambientes,12087,268.6
+San Nicolas,1,NA,2013,Jul,NA,1-2 ambientes,2758,61.28888888888889
+San Nicolas,1,NA,2013,Ago,NA,1-2 ambientes,2678,59.51111111111111
+San Nicolas,1,NA,2013,Oct,NA,1-2 ambientes,2820,62.666666666666664
+San Nicolas,1,NA,2013,Nov,NA,1-2 ambientes,2786,61.91111111111111
+San Nicolas,1,NA,2013,Dic,NA,1-2 ambientes,2952,65.6
+San Nicolas,1,2014-05-01,2014,May,2,1-2 ambientes,3183,70.73333333333333
+San Nicolas,1,NA,2014,Jun,NA,1-2 ambientes,3380,75.11111111111111
+San Nicolas,1,NA,2014,Jul,NA,1-2 ambientes,3294,73.2
+San Nicolas,1,NA,2014,Ago,NA,1-2 ambientes,3485,77.44444444444444
+San Nicolas,1,2015-05-01,2015,May,2,1-2 ambientes,4143,92.06666666666666
+San Nicolas,1,NA,2015,Jun,NA,1-2 ambientes,4514,100.31111111111112
+San Nicolas,1,NA,2015,Jul,NA,1-2 ambientes,4427,98.37777777777778
+San Nicolas,1,NA,2015,Ago,NA,1-2 ambientes,4256,94.57777777777778
+San Nicolas,1,NA,2016,Ene,NA,1-2 ambientes,5186,115.24444444444444
+San Nicolas,1,NA,2016,Jul,NA,1-2 ambientes,6322,140.48888888888888
+San Nicolas,1,NA,2016,Oct,NA,1-2 ambientes,6214,138.0888888888889
+San Nicolas,1,NA,2016,Nov,NA,1-2 ambientes,6168,137.06666666666666
+San Nicolas,1,NA,2016,Dic,NA,1-2 ambientes,6478,143.95555555555555
+San Nicolas,1,NA,2017,Ene,NA,1-2 ambientes,6549,145.53333333333333
+San Nicolas,1,NA,2017,Feb,NA,1-2 ambientes,6432,142.93333333333334
+San Nicolas,1,NA,2017,Mar,NA,1-2 ambientes,7657,170.15555555555557
+San Nicolas,1,NA,2017,Abr,NA,1-2 ambientes,7250,161.11111111111111
+San Nicolas,1,NA,2017,Ago,NA,1-2 ambientes,7519,167.0888888888889
+San Nicolas,1,NA,2017,Sep,NA,1-2 ambientes,7764,172.53333333333333
+San Nicolas,1,NA,2017,Oct,NA,1-2 ambientes,8227,182.82222222222222
+San Nicolas,1,NA,2017,Nov,NA,1-2 ambientes,7866,174.8
+San Nicolas,1,NA,2018,Ene,NA,1-2 ambientes,8624,191.64444444444445
+San Nicolas,1,NA,2018,Mar,NA,1-2 ambientes,8502,188.93333333333334
+San Nicolas,1,NA,2018,Abr,NA,1-2 ambientes,9036,200.8
+San Nicolas,1,2018-05-01,2018,May,2,1-2 ambientes,10257,227.93333333333334
+San Nicolas,1,NA,2018,Jun,NA,1-2 ambientes,10544,234.3111111111111
+San Nicolas,1,NA,2018,Ago,NA,1-2 ambientes,10704,237.86666666666667
+San Nicolas,1,NA,2018,Oct,NA,1-2 ambientes,11924,264.97777777777776
+San Nicolas,1,NA,2018,Nov,NA,1-2 ambientes,12197,271.0444444444444
+San Nicolas,1,2019-05-01,2019,May,2,1-2 ambientes,12193,270.9555555555556
+San Nicolas,1,NA,2019,Jun,NA,1-2 ambientes,13167,292.6
+San Nicolas,1,NA,2019,Jul,NA,1-2 ambientes,13573,301.6222222222222
+San Nicolas,1,NA,2019,Ago,NA,1-2 ambientes,14289,317.53333333333336
+Velez Sarsfield,10,NA,2013,Oct,NA,1-2 ambientes,2417,53.71111111111111
+Velez Sarsfield,10,NA,2013,Dic,NA,1-2 ambientes,2467,54.82222222222222
+Velez Sarsfield,10,NA,2015,Jun,NA,1-2 ambientes,3943,87.62222222222222
+Velez Sarsfield,10,NA,2015,Jul,NA,1-2 ambientes,3499,77.75555555555556
+Velez Sarsfield,10,NA,2015,Ago,NA,1-2 ambientes,4351,96.68888888888888
+Velez Sarsfield,10,NA,2016,Jul,NA,1-2 ambientes,4930,109.55555555555556
+Velez Sarsfield,10,NA,2016,Sep,NA,1-2 ambientes,5864,130.3111111111111
+Velez Sarsfield,10,NA,2016,Nov,NA,1-2 ambientes,6041,134.24444444444444
+Velez Sarsfield,10,NA,2017,Ene,NA,1-2 ambientes,6158,136.84444444444443
+Velez Sarsfield,10,NA,2017,Feb,NA,1-2 ambientes,6670,148.22222222222223
+Velez Sarsfield,10,NA,2017,Mar,NA,1-2 ambientes,6630,147.33333333333334
+Velez Sarsfield,10,NA,2017,Abr,NA,1-2 ambientes,5980,132.88888888888889
+Velez Sarsfield,10,NA,2018,Ago,NA,1-2 ambientes,9727,216.15555555555557
+Villa Crespo,15,NA,2013,Jul,NA,1-2 ambientes,2844,63.2
+Villa Crespo,15,NA,2013,Ago,NA,1-2 ambientes,2833,62.955555555555556
+Villa Crespo,15,NA,2013,Sep,NA,1-2 ambientes,2839,63.08888888888889
+Villa Crespo,15,NA,2013,Oct,NA,1-2 ambientes,2877,63.93333333333333
+Villa Crespo,15,NA,2013,Nov,NA,1-2 ambientes,2935,65.22222222222223
+Villa Crespo,15,NA,2013,Dic,NA,1-2 ambientes,3055,67.88888888888889
+Villa Crespo,15,NA,2014,Ene,NA,1-2 ambientes,3190,70.88888888888889
+Villa Crespo,15,NA,2014,Feb,NA,1-2 ambientes,3208,71.28888888888889
+Villa Crespo,15,NA,2014,Mar,NA,1-2 ambientes,3437,76.37777777777778
+Villa Crespo,15,NA,2014,Abr,NA,1-2 ambientes,3607,80.15555555555555
+Villa Crespo,15,2014-05-01,2014,May,2,1-2 ambientes,3640,80.88888888888889
+Villa Crespo,15,NA,2014,Jun,NA,1-2 ambientes,3443,76.5111111111111
+Villa Crespo,15,NA,2014,Jul,NA,1-2 ambientes,3702,82.26666666666667
+Villa Crespo,15,NA,2014,Ago,NA,1-2 ambientes,3785,84.11111111111111
+Villa Crespo,15,NA,2014,Sep,NA,1-2 ambientes,3731,82.91111111111111
+Villa Crespo,15,NA,2014,Oct,NA,1-2 ambientes,2844,63.2
+Villa Crespo,15,NA,2014,Nov,NA,1-2 ambientes,3844,85.42222222222222
+Villa Crespo,15,NA,2014,Dic,NA,1-2 ambientes,3951,87.8
+Villa Crespo,15,NA,2015,Ene,NA,1-2 ambientes,3881,86.24444444444444
+Villa Crespo,15,NA,2015,Feb,NA,1-2 ambientes,3962,88.04444444444445
+Villa Crespo,15,NA,2015,Mar,NA,1-2 ambientes,4041,89.8
+Villa Crespo,15,NA,2015,Abr,NA,1-2 ambientes,4128,91.73333333333333
+Villa Crespo,15,2015-05-01,2015,May,2,1-2 ambientes,4286,95.24444444444444
+Villa Crespo,15,NA,2015,Jun,NA,1-2 ambientes,4550,101.11111111111111
+Villa Crespo,15,NA,2015,Jul,NA,1-2 ambientes,4647,103.26666666666667
+Villa Crespo,15,NA,2015,Ago,NA,1-2 ambientes,4759,105.75555555555556
+Villa Crespo,15,NA,2015,Nov,NA,1-2 ambientes,5163,114.73333333333333
+Villa Crespo,15,NA,2016,Ene,NA,1-2 ambientes,5292,117.6
+Villa Crespo,15,NA,2016,Feb,NA,1-2 ambientes,5982,132.93333333333334
+Villa Crespo,15,NA,2016,Mar,NA,1-2 ambientes,6092,135.37777777777777
+Villa Crespo,15,NA,2016,Abr,NA,1-2 ambientes,5853,130.06666666666666
+Villa Crespo,15,2016-05-01,2016,May,2,1-2 ambientes,6218,138.17777777777778
+Villa Crespo,15,NA,2016,Jun,NA,1-2 ambientes,6167,137.04444444444445
+Villa Crespo,15,NA,2016,Jul,NA,1-2 ambientes,6096,135.46666666666667
+Villa Crespo,15,NA,2016,Ago,NA,1-2 ambientes,6686,148.57777777777778
+Villa Crespo,15,NA,2016,Sep,NA,1-2 ambientes,6409,142.42222222222222
+Villa Crespo,15,NA,2016,Oct,NA,1-2 ambientes,7258,161.2888888888889
+Villa Crespo,15,NA,2016,Nov,NA,1-2 ambientes,6809,151.3111111111111
+Villa Crespo,15,NA,2016,Dic,NA,1-2 ambientes,7276,161.6888888888889
+Villa Crespo,15,NA,2017,Ene,NA,1-2 ambientes,7568,168.17777777777778
+Villa Crespo,15,NA,2017,Feb,NA,1-2 ambientes,7595,168.77777777777777
+Villa Crespo,15,NA,2017,Mar,NA,1-2 ambientes,7493,166.51111111111112
+Villa Crespo,15,NA,2017,Abr,NA,1-2 ambientes,7789,173.0888888888889
+Villa Crespo,15,2017-05-01,2017,May,2,1-2 ambientes,7945,176.55555555555554
+Villa Crespo,15,NA,2017,Jun,NA,1-2 ambientes,8312,184.7111111111111
+Villa Crespo,15,NA,2017,Jul,NA,1-2 ambientes,7688,170.84444444444443
+Villa Crespo,15,NA,2017,Ago,NA,1-2 ambientes,8220,182.66666666666666
+Villa Crespo,15,NA,2017,Sep,NA,1-2 ambientes,9072,201.6
+Villa Crespo,15,NA,2017,Oct,NA,1-2 ambientes,9051,201.13333333333333
+Villa Crespo,15,NA,2017,Nov,NA,1-2 ambientes,8868,197.06666666666666
+Villa Crespo,15,NA,2017,Dic,NA,1-2 ambientes,9138,203.06666666666666
+Villa Crespo,15,NA,2018,Ene,NA,1-2 ambientes,9879,219.53333333333333
+Villa Crespo,15,NA,2018,Feb,NA,1-2 ambientes,10211,226.9111111111111
+Villa Crespo,15,NA,2018,Mar,NA,1-2 ambientes,10154,225.64444444444445
+Villa Crespo,15,NA,2018,Abr,NA,1-2 ambientes,10471,232.6888888888889
+Villa Crespo,15,2018-05-01,2018,May,2,1-2 ambientes,11409,253.53333333333333
+Villa Crespo,15,NA,2018,Jun,NA,1-2 ambientes,11286,250.8
+Villa Crespo,15,NA,2018,Jul,NA,1-2 ambientes,12020,267.1111111111111
+Villa Crespo,15,NA,2018,Sep,NA,1-2 ambientes,12646,281.02222222222224
+Villa Crespo,15,NA,2018,Oct,NA,1-2 ambientes,12460,276.8888888888889
+Villa Crespo,15,NA,2018,Nov,NA,1-2 ambientes,12854,285.64444444444445
+Villa Crespo,15,NA,2018,Dic,NA,1-2 ambientes,13126,291.68888888888887
+Villa Crespo,15,NA,2019,Ene,NA,1-2 ambientes,13125,291.6666666666667
+Villa Crespo,15,NA,2019,Feb,NA,1-2 ambientes,13446,298.8
+Villa Crespo,15,NA,2019,Mar,NA,1-2 ambientes,14842,329.8222222222222
+Villa Crespo,15,NA,2019,Abr,NA,1-2 ambientes,14925,331.6666666666667
+Villa Crespo,15,2019-05-01,2019,May,2,1-2 ambientes,14821,329.35555555555555
+Villa Crespo,15,NA,2019,Jun,NA,1-2 ambientes,14800,328.8888888888889
+Villa Crespo,15,NA,2019,Jul,NA,1-2 ambientes,14809,329.0888888888889
+Villa Del Parque,11,NA,2013,Jul,NA,1-2 ambientes,2517,55.93333333333333
+Villa Del Parque,11,NA,2013,Ago,NA,1-2 ambientes,2621,58.24444444444445
+Villa Del Parque,11,NA,2013,Sep,NA,1-2 ambientes,2596,57.68888888888889
+Villa Del Parque,11,NA,2013,Oct,NA,1-2 ambientes,2613,58.06666666666667
+Villa Del Parque,11,NA,2013,Nov,NA,1-2 ambientes,2735,60.77777777777778
+Villa Del Parque,11,NA,2013,Dic,NA,1-2 ambientes,2834,62.977777777777774
+Villa Del Parque,11,NA,2014,Feb,NA,1-2 ambientes,2960,65.77777777777777
+Villa Del Parque,11,NA,2014,Mar,NA,1-2 ambientes,2919,64.86666666666666
+Villa Del Parque,11,NA,2014,Jun,NA,1-2 ambientes,3289,73.08888888888889
+Villa Del Parque,11,NA,2014,Jul,NA,1-2 ambientes,3419,75.97777777777777
+Villa Del Parque,11,NA,2014,Ago,NA,1-2 ambientes,3533,78.5111111111111
+Villa Del Parque,11,NA,2014,Sep,NA,1-2 ambientes,3474,77.2
+Villa Del Parque,11,NA,2014,Oct,NA,1-2 ambientes,3461,76.91111111111111
+Villa Del Parque,11,NA,2014,Nov,NA,1-2 ambientes,3556,79.02222222222223
+Villa Del Parque,11,NA,2015,Feb,NA,1-2 ambientes,3732,82.93333333333334
+Villa Del Parque,11,NA,2015,Abr,NA,1-2 ambientes,4074,90.53333333333333
+Villa Del Parque,11,2015-05-01,2015,May,2,1-2 ambientes,4273,94.95555555555555
+Villa Del Parque,11,NA,2015,Jun,NA,1-2 ambientes,4283,95.17777777777778
+Villa Del Parque,11,NA,2015,Jul,NA,1-2 ambientes,4376,97.24444444444444
+Villa Del Parque,11,NA,2015,Ago,NA,1-2 ambientes,4364,96.97777777777777
+Villa Del Parque,11,NA,2015,Sep,NA,1-2 ambientes,4744,105.42222222222222
+Villa Del Parque,11,NA,2016,Ene,NA,1-2 ambientes,5012,111.37777777777778
+Villa Del Parque,11,NA,2016,Feb,NA,1-2 ambientes,5622,124.93333333333334
+Villa Del Parque,11,NA,2016,Mar,NA,1-2 ambientes,5229,116.2
+Villa Del Parque,11,NA,2016,Abr,NA,1-2 ambientes,5396,119.91111111111111
+Villa Del Parque,11,2016-05-01,2016,May,2,1-2 ambientes,4960,110.22222222222223
+Villa Del Parque,11,NA,2016,Jun,NA,1-2 ambientes,6042,134.26666666666668
+Villa Del Parque,11,NA,2016,Jul,NA,1-2 ambientes,5764,128.0888888888889
+Villa Del Parque,11,NA,2016,Ago,NA,1-2 ambientes,5551,123.35555555555555
+Villa Del Parque,11,NA,2016,Sep,NA,1-2 ambientes,5859,130.2
+Villa Del Parque,11,NA,2016,Oct,NA,1-2 ambientes,6474,143.86666666666667
+Villa Del Parque,11,NA,2016,Nov,NA,1-2 ambientes,6174,137.2
+Villa Del Parque,11,NA,2016,Dic,NA,1-2 ambientes,6594,146.53333333333333
+Villa Del Parque,11,NA,2017,Ene,NA,1-2 ambientes,6805,151.22222222222223
+Villa Del Parque,11,NA,2017,Feb,NA,1-2 ambientes,6616,147.0222222222222
+Villa Del Parque,11,NA,2017,Mar,NA,1-2 ambientes,7127,158.37777777777777
+Villa Del Parque,11,NA,2017,Abr,NA,1-2 ambientes,7195,159.88888888888889
+Villa Del Parque,11,2017-05-01,2017,May,2,1-2 ambientes,7355,163.44444444444446
+Villa Del Parque,11,NA,2017,Jun,NA,1-2 ambientes,7505,166.77777777777777
+Villa Del Parque,11,NA,2017,Jul,NA,1-2 ambientes,7617,169.26666666666668
+Villa Del Parque,11,NA,2017,Ago,NA,1-2 ambientes,7186,159.6888888888889
+Villa Del Parque,11,NA,2017,Sep,NA,1-2 ambientes,7717,171.48888888888888
+Villa Del Parque,11,NA,2017,Oct,NA,1-2 ambientes,7900,175.55555555555554
+Villa Del Parque,11,NA,2017,Nov,NA,1-2 ambientes,8121,180.46666666666667
+Villa Del Parque,11,NA,2017,Dic,NA,1-2 ambientes,8027,178.37777777777777
+Villa Del Parque,11,NA,2018,Ene,NA,1-2 ambientes,8853,196.73333333333332
+Villa Del Parque,11,NA,2018,Feb,NA,1-2 ambientes,8719,193.75555555555556
+Villa Del Parque,11,NA,2018,Mar,NA,1-2 ambientes,9025,200.55555555555554
+Villa Del Parque,11,NA,2018,Abr,NA,1-2 ambientes,9159,203.53333333333333
+Villa Del Parque,11,2018-05-01,2018,May,2,1-2 ambientes,10010,222.44444444444446
+Villa Del Parque,11,NA,2018,Jun,NA,1-2 ambientes,10081,224.0222222222222
+Villa Del Parque,11,NA,2018,Jul,NA,1-2 ambientes,10285,228.55555555555554
+Villa Del Parque,11,NA,2018,Sep,NA,1-2 ambientes,10763,239.17777777777778
+Villa Del Parque,11,NA,2018,Oct,NA,1-2 ambientes,11107,246.82222222222222
+Villa Del Parque,11,NA,2018,Nov,NA,1-2 ambientes,10746,238.8
+Villa Del Parque,11,NA,2019,Ene,NA,1-2 ambientes,10909,242.42222222222222
+Villa Del Parque,11,NA,2019,Mar,NA,1-2 ambientes,12490,277.55555555555554
+Villa Del Parque,11,NA,2019,Abr,NA,1-2 ambientes,13132,291.8222222222222
+Villa Del Parque,11,2019-05-01,2019,May,2,1-2 ambientes,12738,283.06666666666666
+Villa Del Parque,11,NA,2019,Jun,NA,1-2 ambientes,13995,311
+Villa Del Parque,11,NA,2019,Jul,NA,1-2 ambientes,14225,316.1111111111111
+Villa Del Parque,11,NA,2019,Ago,NA,1-2 ambientes,14448,321.06666666666666
+Villa Devoto,11,NA,2013,Jul,NA,1-2 ambientes,2474,54.977777777777774
+Villa Devoto,11,NA,2013,Ago,NA,1-2 ambientes,2505,55.666666666666664
+Villa Devoto,11,NA,2013,Sep,NA,1-2 ambientes,2775,61.666666666666664
+Villa Devoto,11,NA,2013,Oct,NA,1-2 ambientes,2818,62.62222222222222
+Villa Devoto,11,NA,2013,Nov,NA,1-2 ambientes,3074,68.31111111111112
+Villa Devoto,11,NA,2013,Dic,NA,1-2 ambientes,2818,62.62222222222222
+Villa Devoto,11,NA,2014,Feb,NA,1-2 ambientes,3118,69.28888888888889
+Villa Devoto,11,NA,2014,Jul,NA,1-2 ambientes,3221,71.57777777777778
+Villa Devoto,11,NA,2014,Ago,NA,1-2 ambientes,3310,73.55555555555556
+Villa Devoto,11,NA,2014,Sep,NA,1-2 ambientes,3573,79.4
+Villa Devoto,11,NA,2014,Oct,NA,1-2 ambientes,3494,77.64444444444445
+Villa Devoto,11,NA,2015,Abr,NA,1-2 ambientes,4309,95.75555555555556
+Villa Devoto,11,2015-05-01,2015,May,2,1-2 ambientes,4195,93.22222222222223
+Villa Devoto,11,NA,2015,Jun,NA,1-2 ambientes,4488,99.73333333333333
+Villa Devoto,11,NA,2015,Jul,NA,1-2 ambientes,4358,96.84444444444445
+Villa Devoto,11,NA,2015,Ago,NA,1-2 ambientes,4249,94.42222222222222
+Villa Devoto,11,NA,2016,Ene,NA,1-2 ambientes,5388,119.73333333333333
+Villa Devoto,11,2016-05-01,2016,May,2,1-2 ambientes,5932,131.82222222222222
+Villa Devoto,11,NA,2016,Jun,NA,1-2 ambientes,6246,138.8
+Villa Devoto,11,NA,2016,Jul,NA,1-2 ambientes,5518,122.62222222222222
+Villa Devoto,11,NA,2016,Ago,NA,1-2 ambientes,6290,139.77777777777777
+Villa Devoto,11,NA,2016,Sep,NA,1-2 ambientes,6191,137.57777777777778
+Villa Devoto,11,NA,2016,Oct,NA,1-2 ambientes,7057,156.82222222222222
+Villa Devoto,11,NA,2016,Nov,NA,1-2 ambientes,6216,138.13333333333333
+Villa Devoto,11,NA,2016,Dic,NA,1-2 ambientes,6792,150.93333333333334
+Villa Devoto,11,NA,2017,Ene,NA,1-2 ambientes,6264,139.2
+Villa Devoto,11,NA,2017,Mar,NA,1-2 ambientes,6856,152.35555555555555
+Villa Devoto,11,NA,2017,Abr,NA,1-2 ambientes,7227,160.6
+Villa Devoto,11,2017-05-01,2017,May,2,1-2 ambientes,6873,152.73333333333332
+Villa Devoto,11,NA,2017,Jun,NA,1-2 ambientes,7203,160.06666666666666
+Villa Devoto,11,NA,2017,Jul,NA,1-2 ambientes,7371,163.8
+Villa Devoto,11,NA,2017,Ago,NA,1-2 ambientes,7527,167.26666666666668
+Villa Devoto,11,NA,2017,Oct,NA,1-2 ambientes,8828,196.17777777777778
+Villa Devoto,11,NA,2017,Nov,NA,1-2 ambientes,8959,199.0888888888889
+Villa Devoto,11,NA,2018,Feb,NA,1-2 ambientes,9966,221.46666666666667
+Villa Devoto,11,NA,2018,Mar,NA,1-2 ambientes,9423,209.4
+Villa Devoto,11,NA,2018,Abr,NA,1-2 ambientes,9235,205.22222222222223
+Villa Devoto,11,2018-05-01,2018,May,2,1-2 ambientes,9740,216.44444444444446
+Villa Devoto,11,NA,2018,Jun,NA,1-2 ambientes,9775,217.22222222222223
+Villa Devoto,11,NA,2018,Sep,NA,1-2 ambientes,11755,261.22222222222223
+Villa Devoto,11,NA,2018,Oct,NA,1-2 ambientes,12633,280.73333333333335
+Villa Devoto,11,NA,2018,Nov,NA,1-2 ambientes,12958,287.9555555555556
+Villa Devoto,11,NA,2018,Dic,NA,1-2 ambientes,12619,280.4222222222222
+Villa Devoto,11,NA,2019,Ene,NA,1-2 ambientes,12887,286.3777777777778
+Villa Devoto,11,NA,2019,Feb,NA,1-2 ambientes,12883,286.2888888888889
+Villa Gral. Mitre,11,NA,2013,Sep,NA,1-2 ambientes,2663,59.17777777777778
+Villa Gral. Mitre,11,NA,2013,Oct,NA,1-2 ambientes,2341,52.022222222222226
+Villa Gral. Mitre,11,NA,2013,Nov,NA,1-2 ambientes,2369,52.644444444444446
+Villa Gral. Mitre,11,NA,2015,Abr,NA,1-2 ambientes,3832,85.15555555555555
+Villa Gral. Mitre,11,2015-05-01,2015,May,2,1-2 ambientes,3775,83.88888888888889
+Villa Gral. Mitre,11,NA,2015,Jun,NA,1-2 ambientes,4135,91.88888888888889
+Villa Gral. Mitre,11,NA,2016,Sep,NA,1-2 ambientes,4977,110.6
+Villa Gral. Mitre,11,NA,2017,Ene,NA,1-2 ambientes,6098,135.51111111111112
+Villa Gral. Mitre,11,NA,2017,Feb,NA,1-2 ambientes,6811,151.35555555555555
+Villa Gral. Mitre,11,2018-05-01,2018,May,2,1-2 ambientes,9149,203.3111111111111
+Villa Gral. Mitre,11,NA,2018,Jun,NA,1-2 ambientes,9699,215.53333333333333
+Villa Lugano,8,NA,2013,Nov,NA,1-2 ambientes,2552,56.71111111111111
+Villa Luro,10,NA,2013,Jul,NA,1-2 ambientes,2280,50.666666666666664
+Villa Luro,10,NA,2013,Ago,NA,1-2 ambientes,2510,55.77777777777778
+Villa Luro,10,NA,2013,Nov,NA,1-2 ambientes,2453,54.51111111111111
+Villa Luro,10,2015-05-01,2015,May,2,1-2 ambientes,3943,87.62222222222222
+Villa Luro,10,NA,2015,Jun,NA,1-2 ambientes,3983,88.5111111111111
+Villa Luro,10,NA,2015,Jul,NA,1-2 ambientes,3811,84.68888888888888
+Villa Luro,10,NA,2015,Ago,NA,1-2 ambientes,4095,91
+Villa Luro,10,NA,2016,Abr,NA,1-2 ambientes,5683,126.28888888888889
+Villa Luro,10,NA,2016,Sep,NA,1-2 ambientes,5970,132.66666666666666
+Villa Luro,10,NA,2016,Oct,NA,1-2 ambientes,6648,147.73333333333332
+Villa Luro,10,NA,2016,Nov,NA,1-2 ambientes,6143,136.51111111111112
+Villa Luro,10,NA,2017,Mar,NA,1-2 ambientes,6415,142.55555555555554
+Villa Ortuzar,15,NA,2013,Oct,NA,1-2 ambientes,2900,64.44444444444444
+Villa Ortuzar,15,NA,2016,Nov,NA,1-2 ambientes,6960,154.66666666666666
+Villa Pueyrredon,12,NA,2013,Jul,NA,1-2 ambientes,2683,59.62222222222222
+Villa Pueyrredon,12,NA,2013,Ago,NA,1-2 ambientes,3010,66.88888888888889
+Villa Pueyrredon,12,NA,2013,Oct,NA,1-2 ambientes,2917,64.82222222222222
+Villa Pueyrredon,12,NA,2013,Nov,NA,1-2 ambientes,3132,69.6
+Villa Pueyrredon,12,NA,2013,Dic,NA,1-2 ambientes,2996,66.57777777777778
+Villa Pueyrredon,12,NA,2015,Abr,NA,1-2 ambientes,4131,91.8
+Villa Pueyrredon,12,2015-05-01,2015,May,2,1-2 ambientes,4037,89.71111111111111
+Villa Pueyrredon,12,NA,2015,Jun,NA,1-2 ambientes,4673,103.84444444444445
+Villa Pueyrredon,12,NA,2015,Jul,NA,1-2 ambientes,5214,115.86666666666666
+Villa Pueyrredon,12,NA,2015,Ago,NA,1-2 ambientes,4878,108.4
+Villa Pueyrredon,12,NA,2015,Sep,NA,1-2 ambientes,4961,110.24444444444444
+Villa Pueyrredon,12,NA,2016,Mar,NA,1-2 ambientes,5693,126.5111111111111
+Villa Pueyrredon,12,NA,2016,Jul,NA,1-2 ambientes,5839,129.75555555555556
+Villa Pueyrredon,12,NA,2016,Sep,NA,1-2 ambientes,6150,136.66666666666666
+Villa Pueyrredon,12,NA,2016,Oct,NA,1-2 ambientes,6351,141.13333333333333
+Villa Pueyrredon,12,NA,2016,Nov,NA,1-2 ambientes,6611,146.9111111111111
+Villa Pueyrredon,12,NA,2016,Dic,NA,1-2 ambientes,6078,135.06666666666666
+Villa Pueyrredon,12,NA,2017,Mar,NA,1-2 ambientes,6428,142.84444444444443
+Villa Pueyrredon,12,2017-05-01,2017,May,2,1-2 ambientes,7536,167.46666666666667
+Villa Pueyrredon,12,NA,2018,Abr,NA,1-2 ambientes,9620,213.77777777777777
+Villa Pueyrredon,12,2018-05-01,2018,May,2,1-2 ambientes,9576,212.8
+Villa Pueyrredon,12,NA,2018,Jun,NA,1-2 ambientes,10452,232.26666666666668
+Villa Real,10,NA,2013,Oct,NA,1-2 ambientes,2439,54.2
+Villa Santa Rita,11,NA,2013,Jul,NA,1-2 ambientes,2391,53.13333333333333
+Villa Santa Rita,11,NA,2013,Ago,NA,1-2 ambientes,2550,56.666666666666664
+Villa Santa Rita,11,NA,2013,Oct,NA,1-2 ambientes,2394,53.2
+Villa Santa Rita,11,NA,2013,Dic,NA,1-2 ambientes,2594,57.644444444444446
+Villa Santa Rita,11,2015-05-01,2015,May,2,1-2 ambientes,3991,88.68888888888888
+Villa Santa Rita,11,NA,2016,Dic,NA,1-2 ambientes,6075,135
+Villa Urquiza,12,NA,2013,Jul,NA,1-2 ambientes,2884,64.08888888888889
+Villa Urquiza,12,NA,2013,Ago,NA,1-2 ambientes,2819,62.644444444444446
+Villa Urquiza,12,NA,2013,Sep,NA,1-2 ambientes,2853,63.4
+Villa Urquiza,12,NA,2013,Oct,NA,1-2 ambientes,2997,66.6
+Villa Urquiza,12,NA,2013,Nov,NA,1-2 ambientes,3028,67.28888888888889
+Villa Urquiza,12,NA,2013,Dic,NA,1-2 ambientes,3024,67.2
+Villa Urquiza,12,NA,2014,Ene,NA,1-2 ambientes,3119,69.31111111111112
+Villa Urquiza,12,NA,2014,Feb,NA,1-2 ambientes,3134,69.64444444444445
+Villa Urquiza,12,NA,2014,Mar,NA,1-2 ambientes,3298,73.28888888888889
+Villa Urquiza,12,2014-05-01,2014,May,2,1-2 ambientes,3429,76.2
+Villa Urquiza,12,NA,2014,Jun,NA,1-2 ambientes,3463,76.95555555555555
+Villa Urquiza,12,NA,2014,Jul,NA,1-2 ambientes,3698,82.17777777777778
+Villa Urquiza,12,NA,2014,Ago,NA,1-2 ambientes,3844,85.42222222222222
+Villa Urquiza,12,NA,2014,Sep,NA,1-2 ambientes,3787,84.15555555555555
+Villa Urquiza,12,NA,2014,Oct,NA,1-2 ambientes,3865,85.88888888888889
+Villa Urquiza,12,NA,2014,Nov,NA,1-2 ambientes,3939,87.53333333333333
+Villa Urquiza,12,NA,2014,Dic,NA,1-2 ambientes,4093,90.95555555555555
+Villa Urquiza,12,NA,2015,Ene,NA,1-2 ambientes,4100,91.11111111111111
+Villa Urquiza,12,NA,2015,Feb,NA,1-2 ambientes,4366,97.02222222222223
+Villa Urquiza,12,NA,2015,Mar,NA,1-2 ambientes,4346,96.57777777777778
+Villa Urquiza,12,NA,2015,Abr,NA,1-2 ambientes,4406,97.91111111111111
+Villa Urquiza,12,2015-05-01,2015,May,2,1-2 ambientes,4579,101.75555555555556
+Villa Urquiza,12,NA,2015,Jun,NA,1-2 ambientes,4706,104.57777777777778
+Villa Urquiza,12,NA,2015,Jul,NA,1-2 ambientes,4835,107.44444444444444
+Villa Urquiza,12,NA,2015,Ago,NA,1-2 ambientes,4799,106.64444444444445
+Villa Urquiza,12,NA,2015,Sep,NA,1-2 ambientes,4971,110.46666666666667
+Villa Urquiza,12,NA,2015,Oct,NA,1-2 ambientes,4962,110.26666666666667
+Villa Urquiza,12,NA,2015,Nov,NA,1-2 ambientes,5070,112.66666666666667
+Villa Urquiza,12,NA,2016,Ene,NA,1-2 ambientes,5458,121.28888888888889
+Villa Urquiza,12,NA,2016,Feb,NA,1-2 ambientes,5421,120.46666666666667
+Villa Urquiza,12,NA,2016,Mar,NA,1-2 ambientes,5936,131.9111111111111
+Villa Urquiza,12,NA,2016,Abr,NA,1-2 ambientes,6049,134.42222222222222
+Villa Urquiza,12,2016-05-01,2016,May,2,1-2 ambientes,6199,137.75555555555556
+Villa Urquiza,12,NA,2016,Jun,NA,1-2 ambientes,6672,148.26666666666668
+Villa Urquiza,12,NA,2016,Jul,NA,1-2 ambientes,6355,141.22222222222223
+Villa Urquiza,12,NA,2016,Ago,NA,1-2 ambientes,6710,149.11111111111111
+Villa Urquiza,12,NA,2016,Sep,NA,1-2 ambientes,6875,152.77777777777777
+Villa Urquiza,12,NA,2016,Oct,NA,1-2 ambientes,7171,159.35555555555555
+Villa Urquiza,12,NA,2016,Nov,NA,1-2 ambientes,7050,156.66666666666666
+Villa Urquiza,12,NA,2016,Dic,NA,1-2 ambientes,7352,163.37777777777777
+Villa Urquiza,12,NA,2017,Ene,NA,1-2 ambientes,7456,165.6888888888889
+Villa Urquiza,12,NA,2017,Feb,NA,1-2 ambientes,7338,163.06666666666666
+Villa Urquiza,12,NA,2017,Mar,NA,1-2 ambientes,8343,185.4
+Villa Urquiza,12,NA,2017,Abr,NA,1-2 ambientes,8163,181.4
+Villa Urquiza,12,2017-05-01,2017,May,2,1-2 ambientes,8488,188.62222222222223
+Villa Urquiza,12,NA,2017,Jun,NA,1-2 ambientes,8384,186.3111111111111
+Villa Urquiza,12,NA,2017,Jul,NA,1-2 ambientes,8537,189.7111111111111
+Villa Urquiza,12,NA,2017,Ago,NA,1-2 ambientes,8926,198.35555555555555
+Villa Urquiza,12,NA,2017,Sep,NA,1-2 ambientes,9753,216.73333333333332
+Villa Urquiza,12,NA,2017,Oct,NA,1-2 ambientes,9724,216.0888888888889
+Villa Urquiza,12,NA,2017,Nov,NA,1-2 ambientes,9814,218.0888888888889
+Villa Urquiza,12,NA,2017,Dic,NA,1-2 ambientes,9891,219.8
+Villa Urquiza,12,NA,2018,Ene,NA,1-2 ambientes,10468,232.62222222222223
+Villa Urquiza,12,NA,2018,Feb,NA,1-2 ambientes,11028,245.06666666666666
+Villa Urquiza,12,NA,2018,Mar,NA,1-2 ambientes,10921,242.6888888888889
+Villa Urquiza,12,NA,2018,Abr,NA,1-2 ambientes,11478,255.06666666666666
+Villa Urquiza,12,2018-05-01,2018,May,2,1-2 ambientes,11792,262.0444444444444
+Villa Urquiza,12,NA,2018,Jun,NA,1-2 ambientes,11920,264.8888888888889
+Villa Urquiza,12,NA,2018,Jul,NA,1-2 ambientes,11872,263.8222222222222
+Villa Urquiza,12,NA,2018,Ago,NA,1-2 ambientes,12754,283.4222222222222
+Villa Urquiza,12,NA,2018,Sep,NA,1-2 ambientes,12732,282.93333333333334
+Villa Urquiza,12,NA,2018,Oct,NA,1-2 ambientes,13521,300.46666666666664
+Villa Urquiza,12,NA,2018,Nov,NA,1-2 ambientes,13327,296.15555555555557
+Villa Urquiza,12,NA,2018,Dic,NA,1-2 ambientes,13176,292.8
+Villa Urquiza,12,NA,2019,Ene,NA,1-2 ambientes,14156,314.5777777777778
+Villa Urquiza,12,NA,2019,Feb,NA,1-2 ambientes,14663,325.84444444444443
+Villa Urquiza,12,NA,2019,Mar,NA,1-2 ambientes,14512,322.4888888888889
+Villa Urquiza,12,NA,2019,Abr,NA,1-2 ambientes,14638,325.2888888888889
+Villa Urquiza,12,2019-05-01,2019,May,2,1-2 ambientes,14544,323.2
+Villa Urquiza,12,NA,2019,Jun,NA,1-2 ambientes,15371,341.5777777777778
+Villa Urquiza,12,NA,2019,Jul,NA,1-2 ambientes,15132,336.26666666666665
