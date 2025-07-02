@@ -28,3 +28,5 @@ skim(prestamos_uva)
 skim(precio_alquiler)
 skim(precio_venta)
 skim(superficie)
+
+view(superficie)
