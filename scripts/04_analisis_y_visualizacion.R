@@ -22,7 +22,7 @@ library(scales)
 library(zoo) # Para la función rollmean()
 
 # --- Configuración de Salida ---
-output_path <- "output/"
+output_path <- "C:/Users/patri/OneDrive - Económicas - UBA/Escritorio/facu/Ciencia de datos/TP/Mercado-Inmobiliario-BA/output/"
 if (!dir.exists(output_path)) dir.create(output_path, recursive = TRUE)
 
 # --- Función Auxiliar para Guardar Gráficos ---
