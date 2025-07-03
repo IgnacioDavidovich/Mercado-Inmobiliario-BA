@@ -5,7 +5,7 @@ library(janitor)
 library(skimr)
 
 # Definir ruta base
-base_path <- "C:/Users/ThinkPad/Desktop/TP Mercado Inmobiliario/raw/"
+base_path <- "C:/Users/patri/OneDrive - Económicas - UBA/Escritorio/facu/Ciencia de datos/TP/Mercado-Inmobiliario-BA/raw/"
 
 # Archivos a importar
 archivo_actividad <- paste0(base_path, "actas-notariales-compra-venta-inmuebles-hipotecas.csv")

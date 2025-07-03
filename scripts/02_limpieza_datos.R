@@ -215,7 +215,7 @@ print(resumen_limpieza)
 # ==============================================================================
 
 # Definir ruta de salida
-output_path <- "C:/Users/ThinkPad/Desktop/TP Mercado Inmobiliario/input/"
+output_path <- "C:/patri/OneDrive - Económicas - UBA/Escritorio/facu/Ciencia de datos/TP/Mercado-Inmobiliario-BA/input/"
 
 # Crear directorio si no existe
 if (!dir.exists(output_path)) {
@@ -242,3 +242,5 @@ view(prestamos_uva_clean)
 view(precio_alquiler_clean)
 view(precio_venta_clean)
 view(superficie_clean)
+
+view(tipo_de_cambio)
