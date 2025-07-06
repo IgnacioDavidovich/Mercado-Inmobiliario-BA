@@ -1,3 +1,6 @@
+setwd("C:/Users/ThinkPad/Desktop/TP Mercado Inmobiliario")
+
+
 # 03_eda_graficos.R
 # EDA - Mercado inmobiliario CABA
 # Autor: Ignacio Davidovich

@@ -237,8 +237,3 @@ cat("- precio_alquiler_clean.csv\n")
 cat("- precio_venta_clean.csv\n")
 cat("- superficie_clean.csv\n")
 
-View(actividad_clean)
-view(prestamos_uva_clean)
-view(precio_alquiler_clean)
-view(precio_venta_clean)
-view(superficie_clean)

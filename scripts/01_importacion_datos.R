@@ -21,7 +21,6 @@ precio_alquiler <- read_csv2(archivo_precio_alquiler) %>% clean_names()
 precio_venta <- read_csv2(archivo_precio_venta) %>% clean_names()
 superficie <- read_csv2(archivo_superficie) %>% clean_names()
 
-
 # Mostrar resumen con skimr
 skim(actividad)
 skim(prestamos_uva)
@@ -29,4 +28,5 @@ skim(precio_alquiler)
 skim(precio_venta)
 skim(superficie)
 
+# Visualizar
 view(superficie)
